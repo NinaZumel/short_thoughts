@@ -2,9 +2,10 @@ theme: minima
 
 # Site Settings
 title : Short Thoughts
-# title_separator          : "-"
-# name                     : "Nina Zumel"
-# description              : "A place for microblogging"
+author: 
+  name: Nina Zumel
+  
+show_excerpts : true
 
 # set timezone
 timezone: America/Los_Angeles
