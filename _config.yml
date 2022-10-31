@@ -1,5 +1,3 @@
-theme: minima
-
 # Site Settings
 title : Short Thoughts
 author: 
@@ -10,3 +8,4 @@ show_excerpts : true
 # set timezone
 timezone: America/Los_Angeles
 
+theme: minima
