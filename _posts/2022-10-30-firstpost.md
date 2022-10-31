@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First post"
 date: 2022-10-30 17:23
 ---
