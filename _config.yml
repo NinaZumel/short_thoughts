@@ -1,7 +1,10 @@
 # Site Settings
 title : Short Thoughts
-author: 
-  name: Nina Zumel
+author:
+  name: GitHub User
+  email: your-email@domain.com
+# author: 
+#  name: Nina Zumel
   
 show_excerpts : true
 
