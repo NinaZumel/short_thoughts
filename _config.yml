@@ -5,6 +5,11 @@ title : Short Thoughts
 title_separator          : "-"
 name                     : &name "Nina Zumel"
 description              : &description "A place for microblogging"
+
+# set timezone
+timezone: America/Los_Angeles
+
+
 # Site Author
 author:
   name             : "Nina Zumel"
