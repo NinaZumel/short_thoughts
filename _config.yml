@@ -1,0 +1,11 @@
+theme: minima
+
+# Site Settings
+title : Short Thoughts
+title_separator          : "-"
+name                     : &name "Nina Zumel"
+description              : &description "A place for microblogging"
+# Site Author
+author:
+  name             : "Nina Zumel"
+ 
