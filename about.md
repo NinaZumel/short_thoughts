@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-As I say [somewhere else](https://multoghost.wordpress.com/2022/10/29/trying-a-new-syndication-strategy-on-micro-blog/), I've gotten disenchanted with the low visibility of announcing my posts to Facebook or Twitter. I'm also not in love with the high toxicity of Twitter, in particular. But I still feel the need to share my posts to the world, somehow. So I'm trying something different.
+I have a lot of personal blogs, to cover a variety of related interests. I've never done a lot of work to publicize my posts, relying mostly on Facebook interest groups, the Wordpress Reader, and Twitter.
 
-Instead of posting to Twitter, I'll be announcing new posts at Micro.blog, via this site. You'll hear about posts from all my blogs:
-[Multo](https://multoghost.wordpress.com), [Ephemera](https://exiw.wordpress.com), [Dark Tales Sleuth](https://darktalessleuth.wordpress.com), 
-and even [NinaZumel.com](ninazumel.com).
+Over the years, I've grown disenchanted with the low visibility of announcing my posts to Twitter. Facebook works a little better, if I happen to write something of interest to an interest group that I follow. But honestly, these days I've not had any great desire to check in with either of those sites.
 
-You can follow [@MultoGhost](https://micro.blog/MultoGhost) at Micro.blog, or follow me here via RSS.
+And yet, I still feel the need to share my posts to the world, somehow. Hence, this little space.
+
+### My Blogs
+
+[Multo(Ghost)](https://multoghost.wordpress.com): my primary blog, where I blog about the supernatural in literature and popular culture. Ghost stories, folklore, and whatever I feel like writing about.
+
+[Ephemera](https://exiw.wordpress.com): Lately, I've been using this blog mostly for my translations of public domain, Spanish language supernatural short fiction.
+
+[Dark Tales Sleuth](https://darktalessleuth.wordpress.com): A blog I use for my forays into "literary sleuthing": tracking down author attributions and original publication sources of unattributed (usually public domain) works.
+
+[NinaZumel.com](ninazumel.com): My professional presence online. 
+
+You can follow [@MultoGhost](https://micro.blog/MultoGhost) at Micro.blog, or follow me here via RSS. If you want to reply to any of my posts here, you can do that by joining Micro.blog. You can leave a comment on my long form articles at the originating blog.
 
 
 

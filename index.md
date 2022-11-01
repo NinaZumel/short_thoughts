@@ -8,4 +8,6 @@
 layout: home
 ---
 
-This is my own space for short term publishing, to complement my long form blog posts.
+I'm Nina Zumel. This is my own microblogging space, to complement my long form blog posts.
+
+You can also follow me as @MultoGhost at [Micro.blog](https://micro.blog/MultoGhost).
