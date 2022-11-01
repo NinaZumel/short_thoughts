@@ -12,4 +12,6 @@ I'm Nina Zumel. This is my own microblogging space, to complement my long form b
 
 For longer posts, you can click on the dates to see the full post.
 
+<a href="https://micro.blog/MultoGhost" rel="me">Follow me on Micro.blog</a>
+
 <hr/>
