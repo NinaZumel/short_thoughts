@@ -10,4 +10,6 @@ layout: home
 
 I'm Nina Zumel. This is my own microblogging space, to complement my long form blog posts.
 
-You can also follow me as @MultoGhost at [Micro.blog](https://micro.blog/MultoGhost).
+For longer posts, you can click on the dates to see the full post.
+
+<hr/>
