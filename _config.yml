@@ -1,10 +1,8 @@
 # Site Settings
 title : Short Thoughts
-#author:
-#  name: GitHub User
-#  email: your-email@domain.com
 author: 
   name: Nina Zumel
+description: A microblog of my own
 baseurl: /short_thoughts
   
 show_excerpts : true
