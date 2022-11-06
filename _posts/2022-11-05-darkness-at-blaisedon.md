@@ -1,11 +1,7 @@
 ---
 layout: post
-title: "20221104"
-date: 2022-11-04 1:09 PM
+title: "20221105"
+date: 2022-11-05 5:34 PM
 ---
 
-Testing images on my blog
-
-<p><img style="display:block;margin-left:auto;margin-right:auto;" src="https://ninazumel.com/short_thoughts/images/PalacioCrystal.jpg" alt="Palacio Crystal" border="0" /></p>
-
-This is the Palacio Crystal, in El Retiro (Retiro Park), Madrid. I took it in 2016.
+Wrapping up my series of early never-made occult detective TV shows with [_A Darkness at Blaisedon_](https://multoghost.wordpress.com/2022/11/05/before-kolchak-v-a-darkness-at-blaisedon/) (1969). I hate to finish on a downbeat note, but only Dan Curtis fans will be warm about this one. 📺 👻 🕵🏽‍♀️
