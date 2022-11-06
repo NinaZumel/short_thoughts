@@ -17,6 +17,7 @@ You can click on the dates to see the full post.
 <link rel="micropub" href="https://micropub-nbz.herokuapp.com/">
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+<li><a href="https://github.com/ninazumel" rel="me">Github</a></li>
 
 <hr />
 <br>
