@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "20221105"
-date: 2022-11-05 10:30 PM
+title: "20221106"
+date: 2022-11-06 9:08 AM
 ---
 
-Why on earth do I have 99 followers on GitHub??? Almost nothing I do on Github is public, except my blogs. So weird.
+Sunday plans: Time to start gathering Christmas ghost stories for my annual [Winter Tales](https://multoghost.wordpress.com/winter-tales/) series. 📚 👻
