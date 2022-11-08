@@ -10,5 +10,6 @@ show_excerpts : true
 
 # set timezone
 timezone: America/Los_Angeles
+future: true
 
 theme: minima
