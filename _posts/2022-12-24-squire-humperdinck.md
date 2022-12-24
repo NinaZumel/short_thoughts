@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "20221219"
-date: 2022-12-19 8:58 PM
+title: "20221224"
+date: 2022-12-24 8:10 AM
 ---
 
-📚 New winter tale: ["Sister Johanna's Story"](https://multoghost.wordpress.com/2022/12/19/sister-johannas-story/) (1873) is a love-triangle ghost story by Amelia Edwards, inspired by her travels through the Gröden Valley in the Dolomite Alps. Heartbreaking, but lovely. 
+📚 On Christmas Eve, I always post a lighter winter tale: ["Squire Humperdinck and the Devil](https://multoghost.wordpress.com/2022/12/24/squire-humperdinck-and-the-devil/) is a delightful fairy tale about a greedy landowner and a mischevious little boy who foils the squire's evil plans. Happy Holidays, and enjoy!
+
