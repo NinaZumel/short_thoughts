@@ -1,7 +1,7 @@
 # Site settings
 title:          Short Thoughts
 description:    "A microblogging site of my own"
-baseurl:        "/testblog"   # change this when I move the site 
+baseurl:        "/short_thoughts"   # change this when I move the site 
 # url:
 
 # https://jekyllrb.com/docs/configuration/options/
