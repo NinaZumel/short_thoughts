@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "20230224"
-date: 2023-02-24 1:04 PM
+title: "20230225"
+date: 2023-02-25 6:14 PM
 ---
 
-> The untapped natural resources of crackpottery in this country...would astonish you. There is a [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law) of the mass intellect: muddle-headedness inevitably drives out clear thinking. And the political science of the future lies in the control and the application of that law to purposive ends.
-
--- Anthony Boucher, "Rumor, Inc." (1945)
+I've got [The Library of Babble](https://ninazumel.com/books/) up to date, and organized by category. That itch has been scratched. Now back to reading so I can add more books to the shelf...
 
