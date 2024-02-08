@@ -16,4 +16,4 @@ permalink: /about/
 
 [NinaZumel.com](https://ninazumel.com): My professional presence online, where I sometimes write about data science and other technical interests. 
 
-You can follow [@MultoGhost](https://micro.blog/MultoGhost) at Micro.blog, or follow me here via RSS. If you want to reply to any of my posts here, you can do that by joining Micro.blog. You can leave a comment on my long form articles at the originating blog.
+You can follow [@MultoGhost](https://micro.blog/MultoGhost) at Micro.blog, or follow me here via RSS. If you want to reply to any of my posts here, you can do that by joining Micro.blog, or sending an email (see the link below). You can leave a comment on my long form articles at the originating blog.
