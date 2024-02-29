@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Short Thoughts",
-	url: "https://ninazumel.com/testblog",
+	url: "https://ninazumel.com/short_thoughts/",
 	language: "en",
 	description: "Nina Zumel's Microblog",
 	author: {
