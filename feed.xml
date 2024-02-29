@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/testblog"/>
-	<updated>2024-02-26T11:12:00Z</updated>
+	<updated>2024-02-29T11:11:00Z</updated>
 	<id>https://ninazumel.com/testblog</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-testpost/"/>
+		<updated>2024-02-29T11:11:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-testpost/</id>
+		<content type="html">&lt;p&gt;Just rebuilt site -- testing the feed, please ignore.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
