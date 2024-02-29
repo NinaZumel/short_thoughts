@@ -38,15 +38,18 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginBundle);
 
 	// Filters
+	// These work because I'm specifically putting the time zone into the datetimes on this blog
+	// On ninazumel.com where I'm only using date, there might be an off by one error, but whatever.
+
 	// luxon format strings https://moment.github.io/luxon/#/formatting
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy t");
+		return DateTime.fromJSDate(dateObj, { zone: zone || "local" }).toFormat(format || "dd LLLL yyyy t");
 	});
 
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd t');
+		return DateTime.fromJSDate(dateObj, {zone: 'local'}).toFormat('yyyy-LL-dd t');
 	});
 
 	// shortcodes

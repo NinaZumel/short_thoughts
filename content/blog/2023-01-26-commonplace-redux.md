@@ -1,5 +1,5 @@
 ---
-date: 2023-01-26 20:31:00
+date: 2023-01-26 20:31:00-08:00
 ---
 
 📓📝 About a month ago, I started keeping a [commonplace book](https://ninazumel.com/short_thoughts/2022/12/28/commonplace-book.html) to capture interesting things I come across online. Originally, it was in Scrivener on my desktop, which is my primary machine for work and for my writing.

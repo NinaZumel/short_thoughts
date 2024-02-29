@@ -1,5 +1,5 @@
 ---
-date: 2024-01-11 11:58:00
+date: 2024-01-11 11:58:00-08:00
 ---
 
 I've been watching the current kerfluffle and its aftermath at Micro.blog. I have to say that my immediate reaction to the person who took offense was "welcome to the world the rest of us live in." 

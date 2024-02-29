@@ -1,5 +1,5 @@
 ---
-date: 2024-02-08 10:32:00
+date: 2024-02-08 10:32:00-08:00
 ---
 
 I don't know if anyone follows *Short Thoughts* directly via RSS, but if so, I've just added a "comment by email" link to the footer of the posts.

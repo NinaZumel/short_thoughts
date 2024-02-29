@@ -1,5 +1,5 @@
 ---
-date: 2023-01-06 09:30:00
+date: 2023-01-06 09:30:00-08:00
 ---
 
 📚 [**The Most Scathing Book Reviews of 2022**](https://lithub.com/the-most-scathing-book-reviews-of-2022/). 

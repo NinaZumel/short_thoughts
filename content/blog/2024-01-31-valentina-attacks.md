@@ -1,5 +1,5 @@
 ---
-date: 2024-01-31 15:50:00
+date: 2024-01-31 15:50:00-08:00
 ---
 
 Episode 18 of my Darna translation project [Valentina Attacks](https://multoghost.wordpress.com/2024/01/31/1950s-darna-valentina-attacks/). 

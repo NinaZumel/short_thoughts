@@ -1,5 +1,5 @@
 ---
-date: 2022-11-11 12:41:00
+date: 2022-11-11 12:41:00-08:00
 ---
 
 💬 A brief conversation with @annahavron inspired me to look up this wonderful Joan Didion quote:

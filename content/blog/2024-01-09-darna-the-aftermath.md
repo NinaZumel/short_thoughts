@@ -1,5 +1,5 @@
 ---
-date: 2024-01-09 10:27:00
+date: 2024-01-09 10:27:00-08:00
 ---
 
 Starting up my Filipino comics translation project for the new year. Here's Episode 13 of the Darna saga: [The Aftermath](https://multoghost.wordpress.com/2024/01/08/1950s-darna-the-aftermath/).

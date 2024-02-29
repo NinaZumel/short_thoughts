@@ -1,5 +1,5 @@
 ---
-date: 2022-11-04 17:15:00
+date: 2022-11-04 17:15:00-08:00
 ---
 
 📚  Picked up a copy of [_Creeps by Night_](https://www.isfdb.org/cgi-bin/title.cgi?1027309), a 1931 anthology of spooky and macabre short stories, edited by Dashiell Hammett. My 1944 edition has 20 stories, plus an intro by Hammett, like the 1931 edition does; later reprints only include ten stories. So it was worth doing the research before dropping the hammer on biblio.com. I'm curious to check out his selection.

@@ -1,5 +1,5 @@
 ---
-date: 2023-04-24 17:22:00
+date: 2023-04-24 17:22:00-08:00
 ---
 
 📚 ["The Eternal Stooge"](https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/)  is a devil's bargain tale (text, not graphic art) that I found in a remaindered collection[^1] of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.

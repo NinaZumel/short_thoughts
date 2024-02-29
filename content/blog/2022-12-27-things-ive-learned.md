@@ -1,5 +1,5 @@
 ---
-date: 2022-12-27 09:02:00
+date: 2022-12-27 09:02:00-08:00
 ---
 
 ## Things I've Learned from Reading Ghost Stories:

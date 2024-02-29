@@ -1,5 +1,5 @@
 ---
-date: 2024-01-02 14:17:00
+date: 2024-01-02 14:17:00-08:00
 ---
 
 Over Christmas break, a researcher for the Internet Speculative Fiction Database [left a comment on a post](https://darktalessleuth.wordpress.com/2021/06/04/notes-on-the-tigers-cave/comment-page-1/#comment-29) at my blog *Dark Tales Sleuth*. This is a blog I put up to support my projects in literary sleuthing: that is, tracking down proper author/translator attributions and provenance of uncredited (or miscredited) stories---a thing you come across a lot if you like to read short fiction from nineteenth century periodicals or anthologies. The amount of copypasta and plagiarism is staggering. Even the *New York Times* wasn't above it.

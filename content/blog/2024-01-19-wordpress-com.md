@@ -1,5 +1,5 @@
 ---
-date: 2024-01-19 10:17:00
+date: 2024-01-19 10:17:00-08:00
 ---
 
 So wordpress.com won't admit my website exists, except when it does. Meaning, you can see it, you can email or RSS subscribe to it (and get notifications), but it won't show up in the wordpress.com reader if you aren't subscribed.
