@@ -4,6 +4,6 @@ date: 2022-11-04 13:09:00-08:00
 
 Testing images on my blog
 
-<p><img style="display:block;margin-left:auto;margin-right:auto;" src="https://ninazumel.com/short_thoughts/assets/images/PalacioCrystal.jpg" alt="Palacio Crystal" border="0" /></p>
+{% image "./images/PalacioCrystal.jpg", "Palacio Crystal, Madrid"   %}
 
 This is the Palacio Crystal, in El Retiro (Retiro Park), Madrid. I took it in 2016.

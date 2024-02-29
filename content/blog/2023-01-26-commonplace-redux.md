@@ -8,7 +8,7 @@ But I also do a lot of my leisure-time online reading on my laptop, and my Scriv
 
 So I've moved from Scrivener to [bookdown](https://bookdown.org/), which generates an HTML book from Rmarkdown that I can peruse locally from my browser.
 
-<p><img style="display:block;margin-left:auto;margin-right:auto;" src="https://ninazumel.com/short_thoughts/assets/images/commonplace_book.png" alt="Commonplace Book" border="0" /></p>
+{% image "./images/commonplace_book.png", "My commonplace book, via bookdown" %}
 
 Bookdown is overkill; I don't need any R functionality, nor do I need to generate the book in PDF or EPUB, or any other format that bookdown supports. Probably [mdBook](https://rust-lang.github.io/mdBook/) would have made more sense. But R and the RStudio IDE are already on both my laptop and desktop, and it's nice to just create a new Rmarkdown file and press "Build."
 
