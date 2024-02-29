@@ -1,5 +1,2 @@
-For microblogging. 
+Nina Zumels microblog produced via [eleventy](https://www.11ty.dev/) and based on based on [eleventy base blog](https://github.com/11ty/eleventy-base-blog) v8
 
-Default posting format and front page layout hides titles in favor of dates, so it looks like a microblog.
-
-Post titles are numbers, for compatibility with Micro.blog timeline presentation.

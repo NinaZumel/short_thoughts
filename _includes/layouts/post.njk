@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+{# Only include the syntax highlighter CSS on blog posts #}
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+<h1>{{ title }}</h1>
+
+<div class="posttalk-metadata">
+  <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+</div>
+<ul class="post-metadata">
+	{%- for tag in tags | filterTagList %}
+	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	{%- endfor %}
+</ul>
+
+{{ content | safe }}
+
+{%- if collections.posts %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+{%- set nextPost = collections.posts | getNextCollectionItem %}
+{%- if nextPost or previousPost %}
+<ul class="links-nextprev">
+	{%- if previousPost %}<li><a href="{{ previousPost.url }}">&#8592;</a> <span style="color: #9B9C9D">Previous</span></li>{% endif %}
+	{%- if nextPost %}<li><span style="color: #9B9C9D">Next</span> <a href="{{ nextPost.url }}">&#8594</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
