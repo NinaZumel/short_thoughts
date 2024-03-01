@@ -2,7 +2,7 @@
 	"name": "Short Thoughts",
 	"description": "Nina Zumel's Microblog",
 	"scripts": {
-		"build": "npx @11ty/eleventy",
+		"build": "npx @11ty/eleventy --pathprefix=/short_thoughts/",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/short_thoughts/",
 		"start": "npx @11ty/eleventy --serve",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
