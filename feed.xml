@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-02-29T22:03:00Z</updated>
+	<updated>2024-03-01T01:41:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-election-spam-texts/"/>
+		<updated>2024-03-01T01:41:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-election-spam-texts/</id>
+		<content type="html">&lt;p&gt;I think I said this last year, too, but I &lt;em&gt;cannot wait&lt;/em&gt; for our March 5 primary elections to be over so all this phone spam will cease! It&#39;s an incredible disincentive to donate to candidates and political causes, too, knowing that your email or phone number or whatever is going to be sold to everyone and their cousin. Just take my money do what I gave it to you for, already.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
@@ -491,9 +500,15 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/"/>
 		<updated>2023-04-25T01:22:00Z</updated>
 		<id>https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/</id>
-		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/&quot;&gt;&amp;quot;The Eternal Stooge&amp;quot;&lt;/a&gt;  is a devil&#39;s bargain tale (text, not graphic art) that I found in a remaindered collection[^1] of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.&lt;/p&gt;
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/&quot;&gt;&amp;quot;The Eternal Stooge&amp;quot;&lt;/a&gt;  is a devil&#39;s bargain tale (text, not graphic art) that I found in a remaindered collection&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.&lt;/p&gt;
 &lt;p&gt;The frustrated straight-man to a famous comedian longs for a serious acting career. He sees his chance in a new Broadway production of Marlowe&#39;s &lt;em&gt;Dr. Faustus&lt;/em&gt;. But perhaps he should have waited for a play with a happier ending....&lt;/p&gt;
-&lt;p&gt;[^1]: Pre-Code Classics: &lt;em&gt;The Unseen&lt;/em&gt; Volume 1, PS Artbooks, 2017&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Pre-Code Classics: &lt;em&gt;The Unseen&lt;/em&gt; Volume 1, PS Artbooks, 2017 &lt;a href=&quot;https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </content>
 	</entry>
 	
@@ -559,7 +574,8 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-24-bookspine-lit/"/>
 		<updated>2023-02-24T21:31:00Z</updated>
 		<id>https://ninazumel.com/short_thoughts/blog/2023-02-24-bookspine-lit/</id>
-		<content type="html">&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/bookspine_lit.jpg&quot; alt=&quot;Bookspine Literature&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+		<content type="html">&lt;br&gt;
+&lt;img alt=&quot;a stack of books&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-400.png&quot; width=&quot;1000&quot; height=&quot;750&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-400.png 400w, https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-800.png 800w, https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2012/05/07/book-spine-literature/&quot;&gt;Bookspine Literature&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
@@ -658,7 +674,7 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 		<content type="html">&lt;p&gt;📓📝 About a month ago, I started keeping a &lt;a href=&quot;https://ninazumel.com/short_thoughts/2022/12/28/commonplace-book.html&quot;&gt;commonplace book&lt;/a&gt; to capture interesting things I come across online. Originally, it was in Scrivener on my desktop, which is my primary machine for work and for my writing.&lt;/p&gt;
 &lt;p&gt;But I also do a lot of my leisure-time online reading on my laptop, and my Scrivener commonplace book wasn&#39;t in the cloud. At first, I&#39;d save links to interesting articles to Apple Notes, and put them in Scrivener the next time I was at my desktop, but that got old really fast.&lt;/p&gt;
 &lt;p&gt;So I&#39;ve moved from Scrivener to &lt;a href=&quot;https://bookdown.org/&quot;&gt;bookdown&lt;/a&gt;, which generates an HTML book from Rmarkdown that I can peruse locally from my browser.&lt;/p&gt;
-&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/commonplace_book.png&quot; alt=&quot;Commonplace Book&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;img alt=&quot;My commonplace book, via bookdown&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-400.png&quot; width=&quot;1096&quot; height=&quot;1138&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-400.png 400w, https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-800.png 800w, https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-1096.png 1096w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;Bookdown is overkill; I don&#39;t need any R functionality, nor do I need to generate the book in PDF or EPUB, or any other format that bookdown supports. Probably &lt;a href=&quot;https://rust-lang.github.io/mdBook/&quot;&gt;mdBook&lt;/a&gt; would have made more sense. But R and the RStudio IDE are already on both my laptop and desktop, and it&#39;s nice to just create a new Rmarkdown file and press &amp;quot;Build.&amp;quot;&lt;/p&gt;
 &lt;p&gt;Now I can add to my clippings from either machine, and keep the book synchronized with a private repository on GitHub. And I can read it from both places, too, which is a bonus I hadn&#39;t been planning on when I started this practice.&lt;/p&gt;
 </content>
@@ -1077,7 +1093,7 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 		<updated>2022-11-04T21:09:00Z</updated>
 		<id>https://ninazumel.com/short_thoughts/blog/2022-11-04-imagetest/</id>
 		<content type="html">&lt;p&gt;Testing images on my blog&lt;/p&gt;
-&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/PalacioCrystal.jpg&quot; alt=&quot;Palacio Crystal&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;img alt=&quot;Palacio Crystal, Madrid&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-400.png&quot; width=&quot;1000&quot; height=&quot;667&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-400.png 400w, https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-800.png 800w, https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;This is the Palacio Crystal, in El Retiro (Retiro Park), Madrid. I took it in 2016.&lt;/p&gt;
 </content>
 	</entry>
