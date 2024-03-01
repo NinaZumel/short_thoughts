@@ -15,7 +15,7 @@ git add .
 git commit
 git push
 
-npm run build-ghpages
+npm run build # (or build-ghpages, they're the same here)
 npm run deploy
 ```
 
