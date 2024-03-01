@@ -13,16 +13,14 @@ The next state? Alaska. In the routine, Gary says this happens 27 more times, wh
 
 So we decided to ask ChatGPT: How many US states start with the same two letters?
 
-{% image "./images/chatpgpt-states-1.png", "Screenshot of asking ChatGPT: How may US states start with same two letters?" %}
+{% image "./images/chatgpt-states-1.png", "Screenshot of asking ChatGPT: How may US states start with same two letters?" %}
 
 Four, it said, and not one of them was Alabama (New Hampshire, New Jersey, New Mexico, and New York). And I *love* how it doubled down when I asked about Alabama. It's new answer: Alabama, New Hampshire, New Jersey, New Mexico, and New York.
 
 Did we poison the information stream here? Or maybe the question is poorly phrased. Let's try again: "How many US states start with the same two letters as som other US state?"
 
-{% image "./images/chatpgpt-states-2.png", "How many US states start with the same two letters as som other US state?" %}
+{% image "./images/chatgpt-states-2.png", "How many US states start with the same two letters as som other US state?" %}
 
-![[chatgpt-states-2.png]]
-
-Inexplicably, the answer this time is "North Dakota and South Dakota; and "North Carolina and South Carolina." Among other things, ChatGPT doesn't seem to know the difference between "letters" and "words." Which is, on one level, not surprising (they are likely to be terms used in similar contexts), and on another level rather shocking (because they are not remotely the same thing).
+Inexplicably, the answer this time is "North Dakota and South Dakota; plus North Carolina and South Carolina." Among other things, ChatGPT doesn't seem to know the difference between "letters" and "words." Which is, on one level, not surprising (they are likely to be terms used in similar contexts), and on another level rather shocking (because they are not remotely the same thing).
 
 One might say that ChatGPT wasn't developed to play stupid party games. But think about the silly things you google when having casual conversation with your friends. Often successfully. The internet is all about stupid party games, so it's not entirely unfair to judge new products that way.
