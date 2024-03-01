@@ -4,12 +4,33 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-03-01T01:41:00Z</updated>
+	<updated>2024-03-01T04:05:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title>More Stupid LLM Tricks</title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/"/>
+		<updated>2024-03-01T04:05:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/</id>
+		<content type="html">&lt;p&gt;I know I&#39;ve posted about stupid LLM tricks before, but somehow it never ceases to astonish me.&lt;/p&gt;
+&lt;p&gt;We recently rewatched &lt;a href=&quot;https://www.youtube.com/watch?v=dLECCmKnrys&quot;&gt;Gary Gulman&#39;s comedy routine&lt;/a&gt; about how the U.S. states got their two-letter abbreviations (it&#39;s hilarious):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Alabama? AL. Well crap, that was easy. We&#39;ll be done before they stop serving breakfast in the hotel restaurant!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The next state? Alaska. In the routine, Gary says this happens 27 more times, which I think isn&#39;t quite right, but it&#39;s probably close.&lt;/p&gt;
+&lt;p&gt;So we decided to ask ChatGPT: How many US states start with the same two letters?&lt;/p&gt;
+&lt;img alt=&quot;Screenshot of asking ChatGPT: How may US states start with same two letters?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-400.png&quot; width=&quot;2234&quot; height=&quot;1328&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-400.png 400w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-800.png 800w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-1200.png 1200w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;p&gt;Four, it said, and not one of them was Alabama (New Hampshire, New Jersey, New Mexico, and New York). And I &lt;em&gt;love&lt;/em&gt; how it doubled down when I asked about Alabama. It&#39;s new answer: Alabama, New Hampshire, New Jersey, New Mexico, and New York.&lt;/p&gt;
+&lt;p&gt;Did we poison the information stream here? Or maybe the question is poorly phrased. Let&#39;s try again: &amp;quot;How many US states start with the same two letters as som other US state?&amp;quot;&lt;/p&gt;
+&lt;img alt=&quot;How many US states start with the same two letters as som other US state?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-400.png&quot; width=&quot;2234&quot; height=&quot;618&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-400.png 400w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-800.png 800w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-1200.png 1200w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;p&gt;Inexplicably, the answer this time is &amp;quot;North Dakota and South Dakota; plus North Carolina and South Carolina.&amp;quot; Among other things, ChatGPT doesn&#39;t seem to know the difference between &amp;quot;letters&amp;quot; and &amp;quot;words.&amp;quot; Which is, on one level, not surprising (they are likely to be terms used in similar contexts), and on another level rather shocking (because they are not remotely the same thing).&lt;/p&gt;
+&lt;p&gt;One might say that ChatGPT wasn&#39;t developed to play stupid party games. But think about the silly things you google when having casual conversation with your friends. Often successfully. The internet is all about stupid party games, so it&#39;s not entirely unfair to judge new products that way.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
