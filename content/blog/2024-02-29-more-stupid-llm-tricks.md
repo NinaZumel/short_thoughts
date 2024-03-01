@@ -1,5 +1,5 @@
 ---
-date: 2024-02-29 20:05:00-08:00
+date: 2024-02-29 20:15:00-08:00
 title: More Stupid LLM Tricks
 ---
 
