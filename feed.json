@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/",
+			"title": "",
+			"content_html": "<p><a href=\"https://ninazumel.com/blog/2024-03-01-stupid-llm-tricks/\"><strong>Stupid LLM Tricks, Statistics Version</strong></a>: the moral of the story is that you shouldn't ask ChatGPT any question that you don't already know the answer to. At least at some level.</p>\n",
+			"date_published": "2024-03-02T01:13:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/",
 			"title": "More Stupid LLM Tricks",

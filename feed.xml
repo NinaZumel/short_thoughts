@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-03-01T04:15:00Z</updated>
+	<updated>2024-03-02T01:13:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/"/>
+		<updated>2024-03-02T01:13:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/blog/2024-03-01-stupid-llm-tricks/&quot;&gt;&lt;strong&gt;Stupid LLM Tricks, Statistics Version&lt;/strong&gt;&lt;/a&gt;: the moral of the story is that you shouldn&#39;t ask ChatGPT any question that you don&#39;t already know the answer to. At least at some level.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>More Stupid LLM Tricks</title>
