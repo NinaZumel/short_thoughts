@@ -4,12 +4,22 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-03-02T01:13:00Z</updated>
+	<updated>2024-03-04T18:47:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-04-ai-medicine/"/>
+		<updated>2024-03-04T18:47:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-04-ai-medicine/</id>
+		<content type="html">&lt;p&gt;Great article by Rachel Thomas: [&lt;strong&gt;&amp;quot;AI will cure cancer&amp;quot; misunderstands both AI and medicine&lt;/strong&gt;(https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)&lt;/p&gt;
+&lt;p&gt;AI can&#39;t fix anything if the problems are flawed data and flawed processes.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
