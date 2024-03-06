@@ -5,8 +5,11 @@ Micro.blog effectively has a 300 character limit.
 
 2. Copy the post into the `contents/blog` folder of the local blog repo. Any images go into `../content/blog/images`.
 ```
-mv [filename].md ../content/blog
-cd ../  # this should be short_thoughts root
+# actually - better to start from root
+mv draft_vault/[filename.md] content/blog
+
+# mv [filename].md ../content/blog
+# cd ../  # this should be short_thoughts root
 ```
 
 4.  then in `short_thoughts` directory:
