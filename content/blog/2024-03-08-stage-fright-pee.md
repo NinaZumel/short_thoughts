@@ -1,5 +1,5 @@
 ---
-date: 2024-03-08 11:11:00-08:00
+date: 2024-03-08 11:14:00-08:00
 title: '"Why does stage fright make me want to pee?"'
 ---
 I had a dance performance last night, and, like everyone in the company, I went through my same old performance ritual: watch the clock carefully, and fifteen minutes before going on, dash to the bathroom to pee. And, as with every performance, right before we went on, I really really felt like going, again, even though I knew my bladder was empty....
