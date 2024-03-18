@@ -1,0 +1,28 @@
+/* For displaying image and description*/
+
+.top_container {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.top_container img {
+	  max-width: 400px;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+}
+
+.top_description {
+	margin-left: auto;
+    margin-right: auto;
+	line-height: 1;
+
+}
+
+.top_description p {
+	font-style: italic;
+	font-size: 1em;
+	color: #9B9C9D;
+}
+
+

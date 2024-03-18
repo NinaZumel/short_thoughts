@@ -1,5 +1,6 @@
 ---
 date: 2024-01-14 09:45:00-08:00
+title: Fun With Search Engines
 ---
 
 I keep seeing these articles everywhere now about how Google results are getting SO MUCH worse. So terrible! So many splogs! I stopped using Google as my primary search engine a long time ago, in favor of DuckDuckGo -- more because I don't like Google's invasiveness and spying than anything else -- but I do occasionally go back to Google when DuckDuckGo fails me. And to be honest, I can't say that I've noticed what other people complain about, at least not so dramatically (though I do agree that searches that used to succeed, like for exact long quotes, no longer do).

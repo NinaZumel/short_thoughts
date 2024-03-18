@@ -1,5 +1,6 @@
 ---
 date: 2022-11-23 10:46:00-08:00
+title: Social Media Party
 ---
 
 Last night, I invented a new dish, a fusion of Mexican *arroz amarillo* and South Asian *kichidi* that I dubbed “Mexican Kichidi.” It was delicious, and while cooking it I had excited plans to photograph my culinary creation and post my new brainchild. But when the cooking was over and the time came, I decided: *screw it, I’d rather just sit and eat this*. Who cares, after all, except my husband and me, and maybe the people I might make this for in the future? And they can find out about it then.

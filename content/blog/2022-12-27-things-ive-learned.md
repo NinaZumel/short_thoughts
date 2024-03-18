@@ -1,8 +1,7 @@
 ---
 date: 2022-12-27 09:02:00-08:00
+title: Things I've Learned from Reading Ghost Stories
 ---
-
-## Things I've Learned from Reading Ghost Stories:
 
 * If the rent or sale price seems too good to be true - it is.
 

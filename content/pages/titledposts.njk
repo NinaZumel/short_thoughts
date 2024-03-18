@@ -1,0 +1,35 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Titled Posts
+  order: 1
+---
+
+{%- css %}{% include "public/css/topimage.css" %}{% endcss %}
+
+<div class="top_container">
+    {% image "./images/ex-libris-encourage-beautiful-768.jpg", "test" %}
+    <div class="top_description">
+        <p>Encourage the Beautiful, for the Useful encourages itself. -- Goethe</p>
+    </div>
+</div>
+
+<br>
+
+<div class="message-box">
+<h2>Titled Posts Archive</h2>
+
+<p>Titled posts tend to be longer and less ephemeral than my untitled micro-posts, so here's where you can find them all.</p>
+
+<p>For all my posts, both long and short, see <a href="/blog/">the full archive</a>.</p>
+
+<hr/>
+<br>
+
+{% set postslist = collections.posts %}
+{% include "titledpostslist.njk" %}
+
+</div>
+
+<p><small>Illustration by Louis Rhead, from <em>A collection of book plate designs</em> (1907). 
+Source: <a href="https://www.oldbookillustrations.com/illustrations/ex-libris-encourage-beautiful/"><em>Old Book Illustrations</em></a></small></p>

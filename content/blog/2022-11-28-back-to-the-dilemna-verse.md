@@ -1,5 +1,6 @@
 ---
 date: 2022-11-28 16:50:00-08:00
+title: Back to the Dilemnaverse
 ---
 
 Earlier today, my husband, who knows he can't spell, asked me how to spell "dilemma." I spelled it to him out loud, the way I have always spelled the word: d-i-l-e-m-**N**-a. And I reflexively added, "Google it, to make sure."

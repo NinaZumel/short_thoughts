@@ -1,5 +1,6 @@
 ---
 date: 2023-05-12 13:05:00-08:00
+title: Do Justly, Now
 ---
 
 Do not be daunted <br>
