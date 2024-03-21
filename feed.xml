@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-03-17T21:30:00Z</updated>
+	<updated>2024-03-21T19:55:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-21-literary-sleuth-manifesto/"/>
+		<updated>2024-03-21T19:55:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-21-literary-sleuth-manifesto/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2024/03/21/a-literary-quote-manifesto/&quot;&gt;&lt;strong&gt;A Literary Sleuthing Manifesto&lt;/strong&gt;&lt;/a&gt;-- it&#39;s more than just puzzle solving; it&#39;s practicing information literacy.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
