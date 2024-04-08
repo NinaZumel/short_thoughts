@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-04-08T18:24:00Z</updated>
+	<updated>2024-04-08T23:13:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-08-the-cat-who-saved-books/"/>
+		<updated>2024-04-08T23:13:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-08-the-cat-who-saved-books/</id>
+		<content type="html">&lt;p&gt;📚 Just finished a lovely little fantasy called &lt;a href=&quot;https://multoghost.wordpress.com/2024/04/08/the-cat-who-saved-books/&quot;&gt;&#39;&lt;em&gt;The Cat Who Saved Books&lt;/em&gt;&lt;/a&gt;. It&#39;s a delight! I really recommend it.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Thinking About Book Donations</title>
