@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
 	<title>Short Thoughts</title>
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
-	<link href="https://ninazumel.com/feed.xml" rel="self"/>
-	<link href="https://ninazumel.com/short_thoughts/"/>
-	<updated>2024-04-18T16:11:00Z</updated>
+	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
+	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
+	<updated>2024-04-18T21:51:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
@@ -13,36 +13,45 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-04-18-thoughts-on-darna/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-18-darna-film/"/>
+		<updated>2024-04-18T21:51:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-18-darna-film/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2024/04/18/darna-the-film-1951/&quot;&gt;Darna, the Film (1951)&lt;/a&gt; -- coolest fact about it: the actress who played Valentina, the snake-haired villainess actually wore a headdress of live snakes! Too bad the movie was lost; I would have loved to have seen that.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-18-thoughts-on-darna/"/>
 		<updated>2024-04-18T16:11:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-04-18-thoughts-on-darna/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-18-thoughts-on-darna/</id>
 		<content type="html">&lt;p&gt;Finally finished my Darna Filipino comic translation project! The whole thing is compiled to CBZ format, and &lt;a href=&quot;https://multoghost.wordpress.com/2024/04/17/retrospective-thoughs-on-1950s-darna/&quot;&gt;I&#39;ve posted my thoughts on the story&lt;/a&gt;. Link to the CBZ in the blog post. It was a fun project.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-04-14-darna-conclusion/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-14-darna-conclusion/"/>
 		<updated>2024-04-14T20:03:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-04-14-darna-conclusion/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-14-darna-conclusion/</id>
 		<content type="html">&lt;p&gt;The last episode of my Darna translation project! ! &lt;a href=&quot;https://multoghost.wordpress.com/2024/04/14/1950s-darna-the-conclusion/&quot;&gt;&lt;em&gt;The Conclusion&lt;/em&gt;&lt;/a&gt;. All that&#39;s left to do is compile them all into one CBZ file, and write a review.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-04-08-the-cat-who-saved-books/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-08-the-cat-who-saved-books/"/>
 		<updated>2024-04-08T23:13:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-04-08-the-cat-who-saved-books/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-08-the-cat-who-saved-books/</id>
 		<content type="html">&lt;p&gt;📚 Just finished a lovely little fantasy called &lt;a href=&quot;https://multoghost.wordpress.com/2024/04/08/the-cat-who-saved-books/&quot;&gt;&#39;&lt;em&gt;The Cat Who Saved Books&lt;/em&gt;&lt;/a&gt;. It&#39;s a delight! I really recommend it.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Thinking About Book Donations</title>
-		<link href="https://ninazumel.com/blog/2024-04-08-book-donations/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-08-book-donations/"/>
 		<updated>2024-04-08T18:24:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-04-08-book-donations/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-08-book-donations/</id>
 		<content type="html">&lt;p&gt;I&#39;ve been thinking about donating some books, to get my overflowing bookshelves under control. I&#39;ve already been doing that on a small scale, a couple of books at a time, to the &lt;a href=&quot;https://littlefreelibrary.org/&quot;&gt;Little Library&lt;/a&gt;box down the street from me, but now I&#39;m thinking about larger donations, too.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://openlibrary.org/bookdrive&quot;&gt;The Internet Archive controlled lending library&lt;/a&gt; (aka &lt;a href=&quot;https://openlibrary.org/&quot;&gt;Open Library&lt;/a&gt;) is an attractive thought, especially since I take advantage of it often, myself. There is a chance that it may go away, though, since Big Publishing and even many authors seem intent on equating Open Library with piracy and outlawing it. It&#39;s not piracy, it&#39;s a library in exactly the sense a physical one is, but, that&#39;s a different rant....&lt;/p&gt;
 &lt;p&gt;Of course I thought of my local library (San Francisco Public Library), too. It turns out they don&#39;t put donated books in circulation, they &lt;a href=&quot;https://www.friendssfpl.org/donatebooks.html&quot;&gt;sell them&lt;/a&gt;. That&#39;s not a bad thing; the library needs the money. But somehow, as a donor, it doesn&#39;t feel quite the same. Turning a book into money doesn&#39;t feel the same as sharing or passing on a book, you know?&lt;/p&gt;
@@ -52,72 +61,72 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-04-02-darna-penultimate/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-04-02-darna-penultimate/"/>
 		<updated>2024-04-03T00:02:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-04-02-darna-penultimate/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-04-02-darna-penultimate/</id>
 		<content type="html">&lt;p&gt;Episode 27 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/04/02/1950s-darna-things-come-to-a-climax/&quot;&gt;&lt;em&gt;Things Come to a Climax&lt;/em&gt;&lt;/a&gt;. Darna and Valentina finish off their fight, while Edwardo and Ding confront Kobra. Penultimate one!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-28-the-epic-battle/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-28-the-epic-battle/"/>
 		<updated>2024-03-29T03:42:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-28-the-epic-battle/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-28-the-epic-battle/</id>
 		<content type="html">&lt;p&gt;Episodes 25-26 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/03/28/1950s-darna-the-epic-battle/&quot;&gt;&lt;em&gt;The Epic Battle&lt;/em&gt;&lt;/a&gt;. Darna and Valentina continue to rumble, and Ding finds himself in a bit of a bind....&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-25-encourage-the-beautiful/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-25-encourage-the-beautiful/"/>
 		<updated>2024-03-25T22:49:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-25-encourage-the-beautiful/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-25-encourage-the-beautiful/</id>
 		<content type="html">&lt;p&gt;More quote research: &lt;a href=&quot;https://darktalessleuth.wordpress.com/2024/03/25/encourage-the-beautiful/&quot;&gt;&amp;quot;Encourage the Beautiful, for the Useful encourages itself.&amp;quot;&lt;/a&gt; is probably &lt;em&gt;not&lt;/em&gt; by Goethe, as my post explains.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-24-darna-and-valentina-faceoff/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-24-darna-and-valentina-faceoff/"/>
 		<updated>2024-03-24T22:07:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-24-darna-and-valentina-faceoff/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-24-darna-and-valentina-faceoff/</id>
 		<content type="html">&lt;p&gt;Episode 24 of my Darna translation project &lt;a href=&quot;https://multoghost.wordpress.com/2024/03/22/1950s-darna-darna-and-valentina-face-off/&quot;&gt;&lt;em&gt;Darna and Valentina Face off !&lt;/em&gt;&lt;/a&gt;. Finally, finally, the hero and the villain meet and battle each other.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-21-literary-sleuth-manifesto/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-21-literary-sleuth-manifesto/"/>
 		<updated>2024-03-21T19:55:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-21-literary-sleuth-manifesto/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-21-literary-sleuth-manifesto/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2024/03/21/a-literary-quote-manifesto/&quot;&gt;&lt;strong&gt;A Literary Sleuthing Manifesto&lt;/strong&gt;&lt;/a&gt;-- it&#39;s more than just puzzle solving; it&#39;s practicing information literacy.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-17-darna-on-the-hunt/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-17-darna-on-the-hunt/"/>
 		<updated>2024-03-17T21:30:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-17-darna-on-the-hunt/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-17-darna-on-the-hunt/</id>
 		<content type="html">&lt;p&gt;Episode 23 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/03/17/1950s-darna-darna-on-the-hunt/&quot;&gt;&lt;em&gt;Darna on the Hunt&lt;/em&gt;&lt;/a&gt;.  Edwardo is back with Valentina and Kobra, and Darna is hot on their trail.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-11-breakfast-at-tiffanys/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-11-breakfast-at-tiffanys/"/>
 		<updated>2024-03-11T16:41:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-11-breakfast-at-tiffanys/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-11-breakfast-at-tiffanys/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.finebooksmagazine.com/fine-books-news/15m-one-custom-binding-signed-first-edition-breakfast-tiffanys&quot;&gt;&lt;strong&gt;$1.5M One-off Custom Binding of Signed First Edition of &lt;em&gt;Breakfast at Tiffany&#39;s&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; in honor of the centenary of Truman Capote&#39;s birth. It&#39;s beautiful! But as someone who believes books should be for reading (even the collectible ones), I can&#39;t help feeling like this is a waste.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>&quot;Why does stage fright make me want to pee?&quot;</title>
-		<link href="https://ninazumel.com/blog/2024-03-08-stage-fright-pee/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-08-stage-fright-pee/"/>
 		<updated>2024-03-08T19:14:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-08-stage-fright-pee/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-08-stage-fright-pee/</id>
 		<content type="html">&lt;p&gt;I had a dance performance last night, and, like everyone in the company, I went through my same old performance ritual: watch the clock carefully, and fifteen minutes before going on, dash to the bathroom to pee. And, as with every performance, right before we went on, I really really felt like going, again, even though I knew my bladder was empty....&lt;/p&gt;
 &lt;p&gt;And this morning, I wondered: &lt;em&gt;why?&lt;/em&gt;  I mean, yeah, &amp;quot;flight-or-fight response,&amp;quot; but, physically, why? Emptying one&#39;s bladder to flee the enemy makes sense, but if I already did that, why is the feeling still there?&lt;/p&gt;
 &lt;p&gt;Part of the answer, according to the internets, is that stress makes your (usually relaxed when empty) bladder muscles contract, and elevates your blood pressure, which also puts pressure on the bladder. Both of these things fool your brain into thinking you need to pee, even when you don&#39;t --- and if you get this same urge before a big public speaking or performance gig, now you know why.&lt;/p&gt;
@@ -131,18 +140,18 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-05-edwardo-steps-up/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-05-edwardo-steps-up/"/>
 		<updated>2024-03-05T19:39:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-05-edwardo-steps-up/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-05-edwardo-steps-up/</id>
 		<content type="html">&lt;p&gt;Episode 22 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/03/05/1950s-darna-edwardo-steps-up/&quot;&gt;&lt;em&gt;Edwardo Steps Up&lt;/em&gt;&lt;/a&gt;. Can Edwardo stop Valentina from killing him and Consuelo? Also, Darna reappears.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-04-ai-medicine/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-04-ai-medicine/"/>
 		<updated>2024-03-04T18:47:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-04-ai-medicine/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-04-ai-medicine/</id>
 		<content type="html">&lt;p&gt;Great article by Rachel Thomas: &lt;a href=&quot;https://rachel.fast.ai/posts/2024-02-20-ai-medicine/&quot;&gt;&lt;strong&gt;&amp;quot;AI will cure cancer&amp;quot; misunderstands both AI and medicine&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;AI can&#39;t fix anything if the problems are flawed data and flawed processes.&lt;/p&gt;
 </content>
@@ -150,18 +159,18 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-03-01-more-stupid-llm-tricks/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/"/>
 		<updated>2024-03-02T01:13:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-03-01-more-stupid-llm-tricks/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-03-01-more-stupid-llm-tricks/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/blog/2024-03-01-stupid-llm-tricks/&quot;&gt;&lt;strong&gt;Stupid LLM Tricks, Statistics Version&lt;/strong&gt;&lt;/a&gt;: the moral of the story is that you shouldn&#39;t ask ChatGPT any question that you don&#39;t already know the answer to. At least at some level.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>More Stupid LLM Tricks</title>
-		<link href="https://ninazumel.com/blog/2024-02-29-more-stupid-llm-tricks/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/"/>
 		<updated>2024-03-01T04:15:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-29-more-stupid-llm-tricks/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-more-stupid-llm-tricks/</id>
 		<content type="html">&lt;p&gt;I know I&#39;ve posted about stupid LLM tricks before, but somehow it never ceases to astonish me.&lt;/p&gt;
 &lt;p&gt;We recently rewatched &lt;a href=&quot;https://www.youtube.com/watch?v=dLECCmKnrys&quot;&gt;Gary Gulman&#39;s comedy routine&lt;/a&gt; about how the U.S. states got their two-letter abbreviations (it&#39;s hilarious):&lt;/p&gt;
 &lt;blockquote&gt;
@@ -169,10 +178,10 @@
 &lt;/blockquote&gt;
 &lt;p&gt;The next state? Alaska. In the routine, Gary says this happens 27 more times, which I think isn&#39;t quite right, but it&#39;s probably close.&lt;/p&gt;
 &lt;p&gt;So we decided to ask ChatGPT: How many US states start with the same two letters?&lt;/p&gt;
-&lt;img alt=&quot;Screenshot of asking ChatGPT: How may US states start with same two letters?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/img/chatgpt-states-1-iEYT3_WWZv-400.png&quot; width=&quot;2234&quot; height=&quot;1328&quot; srcset=&quot;https://ninazumel.com/img/chatgpt-states-1-iEYT3_WWZv-400.png 400w, https://ninazumel.com/img/chatgpt-states-1-iEYT3_WWZv-800.png 800w, https://ninazumel.com/img/chatgpt-states-1-iEYT3_WWZv-1200.png 1200w, https://ninazumel.com/img/chatgpt-states-1-iEYT3_WWZv-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;img alt=&quot;Screenshot of asking ChatGPT: How may US states start with same two letters?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-400.png&quot; width=&quot;2234&quot; height=&quot;1328&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-400.png 400w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-800.png 800w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-1200.png 1200w, https://ninazumel.com/short_thoughts/img/chatgpt-states-1-iEYT3_WWZv-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;Four, it said, and not one of them was Alabama (New Hampshire, New Jersey, New Mexico, and New York). And I &lt;em&gt;love&lt;/em&gt; how it doubled down when I asked about Alabama. Its new answer: Alabama, New Hampshire, New Jersey, New Mexico, and New York.&lt;/p&gt;
 &lt;p&gt;Did we poison the information stream here? Or maybe the question is poorly phrased. Let&#39;s try again: &amp;quot;How many US states start with the same two letters as some other US state?&amp;quot;&lt;/p&gt;
-&lt;img alt=&quot;How many US states start with the same two letters as som other US state?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/img/chatgpt-states-2-E9Y177M8W3-400.png&quot; width=&quot;2234&quot; height=&quot;618&quot; srcset=&quot;https://ninazumel.com/img/chatgpt-states-2-E9Y177M8W3-400.png 400w, https://ninazumel.com/img/chatgpt-states-2-E9Y177M8W3-800.png 800w, https://ninazumel.com/img/chatgpt-states-2-E9Y177M8W3-1200.png 1200w, https://ninazumel.com/img/chatgpt-states-2-E9Y177M8W3-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;img alt=&quot;How many US states start with the same two letters as som other US state?&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-400.png&quot; width=&quot;2234&quot; height=&quot;618&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-400.png 400w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-800.png 800w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-1200.png 1200w, https://ninazumel.com/short_thoughts/img/chatgpt-states-2-E9Y177M8W3-2234.png 2234w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;Inexplicably, the answer this time is &amp;quot;North Dakota and South Dakota; plus North Carolina and South Carolina.&amp;quot; Among other things, ChatGPT doesn&#39;t seem to know the difference between &amp;quot;letters&amp;quot; and &amp;quot;words.&amp;quot; Which is, on one level, not surprising (they are likely to be terms used in similar contexts), and on another level rather shocking (because they are not remotely the same thing).&lt;/p&gt;
 &lt;p&gt;One might say that ChatGPT wasn&#39;t developed to play stupid party games. But think about the silly things you google when having casual conversation with your friends. Often successfully. The internet is all about stupid party games, so it&#39;s not entirely unfair to judge new products that way.&lt;/p&gt;
 </content>
@@ -180,81 +189,81 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-29-election-spam-texts/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-election-spam-texts/"/>
 		<updated>2024-03-01T01:41:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-29-election-spam-texts/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-election-spam-texts/</id>
 		<content type="html">&lt;p&gt;I think I said this last year, too, but I &lt;em&gt;cannot wait&lt;/em&gt; for our March 5 primary elections to be over so all this phone spam will cease! It&#39;s an incredible disincentive to donate to candidates and political causes, too, knowing that your email or phone number or whatever is going to be sold to everyone and their cousin. Just take my money do what I gave it to you for, already.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-29-test-timezones/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-test-timezones/"/>
 		<updated>2024-02-29T22:03:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-29-test-timezones/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-test-timezones/</id>
 		<content type="html">&lt;p&gt;The local time is approx 2:03 pm. Let&#39;s see what time this shows. Man, I hate timezones.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-29-testpost/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-29-testpost/"/>
 		<updated>2024-02-29T19:11:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-29-testpost/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-29-testpost/</id>
 		<content type="html">&lt;p&gt;Just rebuilt site -- testing the feed, please ignore.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-26-edwardo-and-consuelo/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-26-edwardo-and-consuelo/"/>
 		<updated>2024-02-26T19:12:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-26-edwardo-and-consuelo/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-26-edwardo-and-consuelo/</id>
 		<content type="html">&lt;p&gt;Episode 21 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/26/1950s-darna-edwardo-and-consuelo/&quot;&gt;&lt;em&gt;Edwardo and Consuelo&lt;/em&gt;&lt;/a&gt;. I don&#39;t think highly of Edwardo and his player ways, to be honest.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-21-clarity-not-magic/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-21-clarity-not-magic/"/>
 		<updated>2024-02-21T17:00:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-21-clarity-not-magic/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-21-clarity-not-magic/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/blog/2024-02-21-clarity-not-magic/&quot;&gt;&lt;strong&gt;&lt;em&gt;Clarity, Not Magic&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;: in which I meditate on &amp;quot;magic&amp;quot; versus knowing what you are doing.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-19-blog-migration/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-19-blog-migration/"/>
 		<updated>2024-02-19T20:40:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-19-blog-migration/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-19-blog-migration/</id>
 		<content type="html">&lt;p&gt;Migrated &lt;em&gt;ninazumel.com&lt;/em&gt; to Eleventy from Jekyll. I&#39;m still not good at website building, but this is so much easier for me to wrap my arms around....&lt;a href=&quot;https://ninazumel.com/blog/2024-02-19-new-blogging-framework/&quot;&gt;Blog Migration&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-17-darna-santa-barbara/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-17-darna-santa-barbara/"/>
 		<updated>2024-02-18T00:24:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-17-darna-santa-barbara/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-17-darna-santa-barbara/</id>
 		<content type="html">&lt;p&gt;On to Episode 20 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/17/1950s-darna-santa-barbara/&quot;&gt;&lt;em&gt;Santa Barbara&lt;/em&gt;&lt;/a&gt;. Everyone is beginning to converge in one place, though we aren&#39;t quite there yet.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-11-adventures-with-little-free-library/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-11-adventures-with-little-free-library/"/>
 		<updated>2024-02-11T18:48:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-11-adventures-with-little-free-library/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-11-adventures-with-little-free-library/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2024/02/11/adventures-with-our-little-free-library/&quot;&gt;&lt;em&gt;Adventures With Our Little Free Library&lt;/em&gt;&lt;/a&gt; -- It&#39;s fun to see what your neighbors read.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-08-email-link/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-08-email-link/"/>
 		<updated>2024-02-08T18:32:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-08-email-link/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-08-email-link/</id>
 		<content type="html">&lt;p&gt;I don&#39;t know if anyone follows &lt;em&gt;Short Thoughts&lt;/em&gt; directly via RSS, but if so, I&#39;ve just added a &amp;quot;comment by email&amp;quot; link to the footer of the posts.&lt;/p&gt;
 &lt;p&gt;This was inspired by Amit Gawande&#39;s comment about &lt;a href=&quot;https://www.amitgawande.com/2024/01/21/i-wish-every.html&quot;&gt;email responding&lt;/a&gt; (and Commento).&lt;/p&gt;
 </content>
@@ -262,9 +271,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-02-07-darna-steps-up/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-02-07-darna-steps-up/"/>
 		<updated>2024-02-07T23:13:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-02-07-darna-steps-up/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-02-07-darna-steps-up/</id>
 		<content type="html">&lt;p&gt;Episode 19 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/07/1950s-darna-darna-steps-up/&quot;&gt;&lt;em&gt;Darna Steps Up&lt;/em&gt;&lt;/a&gt;. We&#39;re moving slowly to to the Darna/Valentina confrontation ....&lt;/p&gt;
 &lt;p&gt;You can also see the influence of &lt;em&gt;Superman&lt;/em&gt; in Darna&#39;s apparent relationship with a big Manila newspaper.&lt;/p&gt;
 </content>
@@ -272,9 +281,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-31-valentina-attacks/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-31-valentina-attacks/"/>
 		<updated>2024-01-31T23:50:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-31-valentina-attacks/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-31-valentina-attacks/</id>
 		<content type="html">&lt;p&gt;Episode 18 of my Darna translation project &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/31/1950s-darna-valentina-attacks/&quot;&gt;Valentina Attacks&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I found this episode disturbingly violent for a 1950s-era comic. I knew what was going to happen, since I&#39;m reading ahead relative to what I post, but working on it kinda put me in a dark place. Even pre-code E.C. comics, as graphic as the violence might be, is still fairly, well, cartoonish. This, for me, was not.&lt;/p&gt;
 &lt;p&gt;I&#39;d be curious if other readers react the same way I did.&lt;/p&gt;
@@ -283,45 +292,45 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-29-fun-with-chatgpt/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-29-fun-with-chatgpt/"/>
 		<updated>2024-01-29T21:54:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-29-fun-with-chatgpt/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-29-fun-with-chatgpt/</id>
 		<content type="html">&lt;p&gt;Playing silly games: &lt;a href=&quot;https://ninazumel.com/2024/01/29/fun-with-chatgpt.html&quot;&gt;Fun With Chat GPT&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-26-darna-vs-the-kapre/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-26-darna-vs-the-kapre/"/>
 		<updated>2024-01-26T21:46:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-26-darna-vs-the-kapre/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-26-darna-vs-the-kapre/</id>
 		<content type="html">&lt;p&gt;Episode 17 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/26/1950s-darna-darna-vs-the-kapre/&quot;&gt;Darna vs the Kapre&lt;/a&gt;. A kapre is a tree-dwelling, cigar-smoking orge of Filipino folklore.  A little standalone tale before we go back to the Valentina saga.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-21-secret-of-the-pointed-tower/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-21-secret-of-the-pointed-tower/"/>
 		<updated>2024-01-21T22:38:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-21-secret-of-the-pointed-tower/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-21-secret-of-the-pointed-tower/</id>
 		<content type="html">&lt;p&gt;📚 Finished an interesting collection of Golden Age mystery short stories, &lt;em&gt;The Secret of the Pointed Tower&lt;/em&gt;, by French author Pierre Véry. &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/21/the-secret-of-the-pointed-tower/&quot;&gt;My review here.&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-19-darnas-back/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-19-darnas-back/"/>
 		<updated>2024-01-19T18:45:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-19-darnas-back/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-19-darnas-back/</id>
 		<content type="html">&lt;p&gt;Oh well, as long as I&#39;m here: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/18/1950s-darna-darna-returns/&quot;&gt;Episode 16 of Darna vs. Valentina&lt;/a&gt;. Halfway through the story, and Darna &lt;em&gt;finally&lt;/em&gt; shows up again.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-19-wordpress-com/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-19-wordpress-com/"/>
 		<updated>2024-01-19T18:17:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-19-wordpress-com/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-19-wordpress-com/</id>
 		<content type="html">&lt;p&gt;So wordpress.com won&#39;t admit my website exists, except when it does. Meaning, you can see it, you can email or RSS subscribe to it (and get notifications), but it won&#39;t show up in the wordpress.com reader if you aren&#39;t subscribed.&lt;/p&gt;
 &lt;p&gt;Ironically, I discovered this when someone tried to &lt;em&gt;unsubscribe&lt;/em&gt;, and couldn&#39;t because &amp;quot;the site doesn&#39;t exist&amp;quot;.&lt;/p&gt;
 &lt;p&gt;I emailed support; they read the (unhelpful) web-available doc pages back at me. Nice.&lt;/p&gt;
@@ -332,9 +341,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-14-darna-back-to-edwardo/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-14-darna-back-to-edwardo/"/>
 		<updated>2024-01-14T21:31:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-14-darna-back-to-edwardo/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-14-darna-back-to-edwardo/</id>
 		<content type="html">&lt;p&gt;Episode 14 (and 15) of the Darna vs Valentina saga: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/14/1950s-darna-back-to-edwardo/&quot;&gt;Back to Edwardo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I know Valentina is the villain of the piece, but I really freel kinda sorry for her just now.&lt;/p&gt;
 </content>
@@ -342,9 +351,9 @@
 	
 	<entry>
 		<title>Fun With Search Engines</title>
-		<link href="https://ninazumel.com/blog/2024-01-14-my-search-engines/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-14-my-search-engines/"/>
 		<updated>2024-01-14T17:45:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-14-my-search-engines/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-14-my-search-engines/</id>
 		<content type="html">&lt;p&gt;I keep seeing these articles everywhere now about how Google results are getting SO MUCH worse. So terrible! So many splogs! I stopped using Google as my primary search engine a long time ago, in favor of DuckDuckGo -- more because I don&#39;t like Google&#39;s invasiveness and spying than anything else -- but I do occasionally go back to Google when DuckDuckGo fails me. And to be honest, I can&#39;t say that I&#39;ve noticed what other people complain about, at least not so dramatically (though I do agree that searches that used to succeed, like for exact long quotes, no longer do).&lt;/p&gt;
 &lt;p&gt;There&#39;s a lot of possible reasons for this. I might just be a slowly boiling frog, and haven&#39;t realized it yet. I might have learned to unconsciously and automatically skim past junk results (I find I often skip right over the top result). I&#39;m never logged into Google. I always clear my cookies and cache when I log out of my brower. I use uBlock Origin. It might just be the kind of stuff I search for, or the way I query. Who knows?&lt;/p&gt;
 &lt;p&gt;But I from all these articles, and the associated comment threads, I&#39;ve found a lot of alternative search engines, and I tried a few. I&#39;ve started using &lt;a href=&quot;https://www.startpage.com/&quot;&gt;Startpage&lt;/a&gt; as my Google proxy, for more anonymity. I&#39;ve found that the results are not the same as directly querying Google, but they are pretty good and sometimes better (less sploggy, even). DuckDuckGo and Startpage/Google are still my go-tos, but I&#39;ve added a few more back-up engines, too:&lt;/p&gt;
@@ -363,9 +372,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-11-welcome-to-our-world/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-11-welcome-to-our-world/"/>
 		<updated>2024-01-11T19:58:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-11-welcome-to-our-world/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-11-welcome-to-our-world/</id>
 		<content type="html">&lt;p&gt;I&#39;ve been watching the current kerfluffle and its aftermath at Micro.blog. I have to say that my immediate reaction to the person who took offense was &amp;quot;welcome to the world the rest of us live in.&amp;quot;&lt;/p&gt;
 &lt;p&gt;By which I mean so many people who live as a member of a minority group spend a good part of their brain cells constantly deciding to &amp;quot;pick their battles&amp;quot; when someone else says something that bothers or even offends them. And then, if they do say something, having to defend their reaction when the other person says &amp;quot;I didn&#39;t mean anything by it....&amp;quot; (and in this case, I do believe the first person didn&#39;t &amp;quot;mean anything&amp;quot; insulting by their statement).&lt;/p&gt;
 &lt;p&gt;It sucks to be in that situation. In an ideal world, we&#39;d never have &amp;quot;-isms&amp;quot;. In my opinion, an -ism is bad when it&#39;s directed even at member of a privileged class.  But it&#39;s not &lt;strong&gt;worse&lt;/strong&gt;. And the unstated but definitely acted upon premise is that it is indeed &amp;quot;worse&amp;quot; -- and that is what (greviously) offends me, and I suspect other people as well.&lt;/p&gt;
@@ -375,9 +384,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-09-darna-the-aftermath/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-09-darna-the-aftermath/"/>
 		<updated>2024-01-09T18:27:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-09-darna-the-aftermath/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-09-darna-the-aftermath/</id>
 		<content type="html">&lt;p&gt;Starting up my Filipino comics translation project for the new year. Here&#39;s Episode 13 of the Darna saga: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/08/1950s-darna-the-aftermath/&quot;&gt;The Aftermath&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There are two pages missing in the scan, but Simon Santos at Video48 provided a summary of the missing pages, which I translated and inserted in the issue.&lt;/p&gt;
 </content>
@@ -385,9 +394,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2024-01-02-literary-sleuthing/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-01-02-literary-sleuthing/"/>
 		<updated>2024-01-02T22:17:00Z</updated>
-		<id>https://ninazumel.com/blog/2024-01-02-literary-sleuthing/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-01-02-literary-sleuthing/</id>
 		<content type="html">&lt;p&gt;Over Christmas break, a researcher for the Internet Speculative Fiction Database &lt;a href=&quot;https://darktalessleuth.wordpress.com/2021/06/04/notes-on-the-tigers-cave/comment-page-1/#comment-29&quot;&gt;left a comment on a post&lt;/a&gt; at my blog &lt;em&gt;Dark Tales Sleuth&lt;/em&gt;. This is a blog I put up to support my projects in literary sleuthing: that is, tracking down proper author/translator attributions and provenance of uncredited (or miscredited) stories---a thing you come across a lot if you like to read short fiction from nineteenth century periodicals or anthologies. The amount of copypasta and plagiarism is staggering. Even the &lt;em&gt;New York Times&lt;/em&gt; wasn&#39;t above it.&lt;/p&gt;
 &lt;p&gt;The story in question was one I&#39;d identified as probably being an English translation of a story from a Danish literary journal, that was possibly itself a translation from another language. Maybe even English? That would be funny. Thanks to leads my commenter gave me, I did find a German version of the story that may be the original. Maybe. And &lt;a href=&quot;https://darktalessleuth.wordpress.com/2024/01/01/revisiting-the-tigers-cave/&quot;&gt;I wrote about it here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Not that I expect anyone to be interested in the story itself -- to be honest, even I don&#39;t like it. But literary sleuthing is a fun form of internet research and puzzle solving: running down virtual rabbit holes, figuring out exactly what query---and on which search engine---will get what you want, finding all kinds of cool archives you didn&#39;t know about before.... It&#39;s some of the same impulse, perhaps, that motivates people who like dig into true crime, or into internet drama: can I find something no one else has? Can I see or think of what no one else has seen or thought of?&lt;/p&gt;
@@ -397,9 +406,9 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-31-misers-ghost/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-31-misers-ghost/"/>
 		<updated>2023-12-31T18:10:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-31-misers-ghost/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-31-misers-ghost/</id>
 		<content type="html">&lt;p&gt;The last winter tale for 2023 (but one more coming for 2024): A New Year&#39;s eve ghost story from Canada -- a sort of &amp;quot;reverse Christmas Carol.&amp;quot; In &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/31/the-misers-ghost/&quot;&gt;&amp;quot;The Miser&#39;s Ghost&amp;quot;&lt;/a&gt;, a man lost in the snow on New Year&#39;s eve seeks shelter at a mysterious cabin he&#39;s never seen before.&lt;/p&gt;
 &lt;p&gt;Enjoy, and Happy New Year, everyone!&lt;/p&gt;
 </content>
@@ -407,136 +416,136 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-29-the-ghostly-rental/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-29-the-ghostly-rental/"/>
 		<updated>2023-12-29T19:25:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-29-the-ghostly-rental/</id>
-		<content type="html">&lt;p&gt;Winter themed ghost stories keep coming until Epiphany! The first of two for New Year&#39;s weekend is &lt;a href=&quot;https://ninazumel.com/blog/2023-12-29-the-ghostly-rental/%5Bhttps:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/%5D(https:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/)&quot;&gt;&amp;quot;The Ghostly Rental&amp;quot;&lt;/a&gt; by Henry James, about a house that&#39;s being rented out---to a ghost!&lt;/p&gt;
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-29-the-ghostly-rental/</id>
+		<content type="html">&lt;p&gt;Winter themed ghost stories keep coming until Epiphany! The first of two for New Year&#39;s weekend is &lt;a href=&quot;https://ninazumel.com/short_thoughts/blog/2023-12-29-the-ghostly-rental/%5Bhttps:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/%5D(https:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/)&quot;&gt;&amp;quot;The Ghostly Rental&amp;quot;&lt;/a&gt; by Henry James, about a house that&#39;s being rented out---to a ghost!&lt;/p&gt;
 &lt;p&gt;This is early James, during his &amp;quot;readable&amp;quot; period, so even if you hate late James, you still might enjoy this one.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-24-white-witch/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-24-white-witch/"/>
 		<updated>2023-12-24T17:19:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-24-white-witch/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-24-white-witch/</id>
 		<content type="html">&lt;p&gt;Enjoy a Christmas Eve fairy tale from Mary Wilkins Freeman: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/24/the-white-witch/&quot;&gt;The White Witch&lt;/a&gt;. Wishing a Merry Christmas to all who celebrate, and a beautiful day to all who don&#39;t.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-22-steamboat-willie-pd/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-22-steamboat-willie-pd/"/>
 		<updated>2023-12-22T22:53:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-22-steamboat-willie-pd/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-22-steamboat-willie-pd/</id>
 		<content type="html">&lt;p&gt;In other news &lt;a href=&quot;https://pluralistic.net/2023/12/15/mouse-liberation-front/&quot;&gt;&lt;em&gt;Steamboat Willie&lt;/em&gt; goes into the (U.S.) public domain on January 1, 2024&lt;/a&gt;! Which means that the 1928 instantiation(s) of Mickey Mouse also goes PD. Honestly never thought I&#39;d see the day, thought they&#39;d push it out forever.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-22-the-twelfth-guest/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-22-the-twelfth-guest/"/>
 		<updated>2023-12-22T22:32:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-22-the-twelfth-guest/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-22-the-twelfth-guest/</id>
 		<content type="html">&lt;p&gt;Today, a low-key, mildly supernatural Christmas tale: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/22/the-twelfth-guest/&quot;&gt;The Twelfth Guest&lt;/a&gt;. Not quite a &amp;quot;ghost story,&amp;quot; but still a good story for the season. Plus, I really like Mary Wilkins Freeman.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-15-valentina-reveals-all/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-15-valentina-reveals-all/"/>
 		<updated>2023-12-15T20:43:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-15-valentina-reveals-all/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-15-valentina-reveals-all/</id>
 		<content type="html">&lt;p&gt;Hey, I had time for another blog post today! Here&#39;s the next episode of my ongoing Darna comic book translation project: Episode 11 - &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/15/1950s-darna-valentina-reveals-all/&quot;&gt;Valentina Reveals All&lt;/a&gt;. Valentina finally takes Kobra&#39;s dare, and reveals her true self to the town.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-15-warned-by-the-wire/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-15-warned-by-the-wire/"/>
 		<updated>2023-12-15T17:38:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-15-warned-by-the-wire/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-15-warned-by-the-wire/</id>
 		<content type="html">&lt;p&gt;This week&#39;s Christmas Ghost Story is a tale of haunted technology from California! In &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/15/warned-by-the-wire/&quot;&gt;Warned by the Wire&lt;/a&gt;, a telegraph operator&#39;s receiver tells him things he doesn&#39;t want to know. Written by the inventor of the ur-jukebox!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-08-La-Corriveau/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-08-La-Corriveau/"/>
 		<updated>2023-12-08T17:03:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-08-La-Corriveau/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-08-La-Corriveau/</id>
 		<content type="html">&lt;p&gt;Today&#39;s Winter Tale is from Canada!  &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/08/la-corriveau/&quot;&gt;&lt;em&gt;La Corriveau&lt;/em&gt;&lt;/a&gt; is a story based on the real-life Canadian murderess &lt;a href=&quot;https://en.wikipedia.org/wiki/Marie-Josephte_Corriveau&quot;&gt;Marie-Josephte Corriveau&lt;/a&gt;, whose folkloric reputation is somewhat more colorful than her actual deed might imply.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-12-01-ghost-in-the-mill/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-12-01-ghost-in-the-mill/"/>
 		<updated>2023-12-01T23:54:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-12-01-ghost-in-the-mill/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-12-01-ghost-in-the-mill/</id>
 		<content type="html">&lt;p&gt;Today, the first ghost story of Winter Tales season: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/01/winter-tales-2023-the-ghost-in-the-mill/&quot;&gt;The Ghost in the Mill&lt;/a&gt;, by Harriet Beecher Stowe. Yes, she of &lt;em&gt;Uncle Tom&#39;s Cabin&lt;/em&gt; fame. Sam Lawson tells us the story of Captain Eb Sawin and what he experienced at old Cack Sparrock’s mill….&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-11-24-a-drink-from-the-cup/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-11-24-a-drink-from-the-cup/"/>
 		<updated>2023-11-24T17:49:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-11-24-a-drink-from-the-cup/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-11-24-a-drink-from-the-cup/</id>
 		<content type="html">&lt;p&gt;It&#39;s about time to start my annual Christmas season tradition of sharing Winter Tales (Christmas Ghost Stories) on my blog. Here&#39;s an early pre-season treat, from an early African-American periodical: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/24/a-drink-from-the-cup-a-pre-winter-tale-treat/&quot;&gt;A Drink From the Cup&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-11-20-baybeats/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-11-20-baybeats/"/>
 		<updated>2023-11-21T01:51:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-11-20-baybeats/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-11-20-baybeats/</id>
 		<content type="html">&lt;p&gt;I&#39;ve been streaming music from &lt;a href=&quot;https://baybeats.sfpl.org/albums&quot;&gt;BayBeats&lt;/a&gt;, a (curated) music streaming service sponsored by the San Francisco Public Library, featuring music by local SF Bay Area artists. It&#39;s free to the public, but you need an SFPL library card to download. It&#39;s been a great way to discover local artists I didn&#39;t know about. I hope other municipalities start doing the same thing, too.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-11-17-Valentina-Amazes/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-11-17-Valentina-Amazes/"/>
 		<updated>2023-11-18T00:40:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-11-17-Valentina-Amazes/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-11-17-Valentina-Amazes/</id>
 		<content type="html">&lt;p&gt;Installment 11 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/17/1950s-darna-valentina-amazes-the-townspeople/&quot;&gt;Valentina Amazes the Townspeople&lt;/a&gt;. Things just keep getting stranger.....&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-11-03-stories-of-snake-twins/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-11-03-stories-of-snake-twins/"/>
 		<updated>2023-11-03T22:59:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-11-03-stories-of-snake-twins/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-11-03-stories-of-snake-twins/</id>
 		<content type="html">&lt;p&gt;A bit of Filipino folklore I only recently learned about: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/03/stories-of-snake-twins/&quot;&gt;snake-twins&lt;/a&gt;. Yes, people who allegedly were born with snakes for twin siblings. Such people, &lt;em&gt;kambal-ahas&lt;/em&gt;, can reputedly cure snake bites and other ailments, and communicate with snakes. Sometimes they&#39;re said to have other supernatural abilities, too. Fun stuff.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-09-17-Valentina-as-the-Virgin/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-09-17-Valentina-as-the-Virgin/"/>
 		<updated>2023-09-18T00:42:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-09-17-Valentina-as-the-Virgin/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-09-17-Valentina-as-the-Virgin/</id>
 		<content type="html">&lt;p&gt;Installment 10 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/09/17/1950s-darna-valentina-as-the-virgin/&quot;&gt;&lt;em&gt;Valentina as the Virgin?&lt;/em&gt;&lt;/a&gt;. Edwardo said Valentina would be worshipped for her beauty---and he may be right, but not quite the way he meant.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-09-10-valentina-arrives-in-town/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-09-10-valentina-arrives-in-town/"/>
 		<updated>2023-09-10T22:40:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-09-10-valentina-arrives-in-town/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-09-10-valentina-arrives-in-town/</id>
 		<content type="html">&lt;p&gt;Installment 9 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/09/10/1950s-darna-valentina-arrives-in-town/&quot;&gt;&lt;em&gt;Valentina Arrives in Town&lt;/em&gt;&lt;/a&gt;. At Kobra&#39;s behest, Valentina visits a town for her first encounter with people besides her parents and Edwardo.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-09-01-twelve-medieval-ghost-stories/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-09-01-twelve-medieval-ghost-stories/"/>
 		<updated>2023-09-02T01:48:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-09-01-twelve-medieval-ghost-stories/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-09-01-twelve-medieval-ghost-stories/</id>
 		<content type="html">&lt;p&gt;So I found an early translation of the Byland Abbey ghost stories (first published by M.R. James in 1922) on Github, of all places. So of course I had to fork the repo to &lt;a href=&quot;https://github.com/NinaZumel/TwelveMedievalGhostStories/blob/master/English/english.md&quot;&gt;make a more online readable version&lt;/a&gt;. Because that&#39;s what I do.&lt;/p&gt;
 &lt;p&gt;They are fun, though.&lt;/p&gt;
 </content>
@@ -544,90 +553,90 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-08-26-darna-valentina-the-plot-thickens/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-08-26-darna-valentina-the-plot-thickens/"/>
 		<updated>2023-08-27T06:09:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-08-26-darna-valentina-the-plot-thickens/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-08-26-darna-valentina-the-plot-thickens/</id>
 		<content type="html">&lt;p&gt;Two episodes of my 1950&#39;s Filipino Darna comics translation project this weekend, to make up for the delay between installments 6 and 7. Here&#39;s &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/26/1950s-darna-the-plot-thickens/&quot;&gt;installment 8&lt;/a&gt;. Things are beginning to get complicated.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-08-25-valentina-falls-in-love/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-08-25-valentina-falls-in-love/"/>
 		<updated>2023-08-26T01:09:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-08-25-valentina-falls-in-love/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-08-25-valentina-falls-in-love/</id>
 		<content type="html">&lt;p&gt;Installment 7 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/25/1950s-darna-valentina-falls-in-love/&quot;&gt;&lt;em&gt;Valentina Falls in Love&lt;/em&gt;&lt;/a&gt;. I guess she doesn&#39;t hate the human race as much as she says. At least, not all of it.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-08-21-sphering-transform/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-08-21-sphering-transform/"/>
 		<updated>2023-08-21T17:15:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-08-21-sphering-transform/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-08-21-sphering-transform/</id>
 		<content type="html">&lt;p&gt;I have a new blog post up on the Win Vector blog: &lt;a href=&quot;https://win-vector.com/2023/08/20/detecting-data-differences-using-the-sphering-transform/&quot;&gt;Detecting Data Differences Using the Sphering Transform&lt;/a&gt;, where I discuss how to convert the problem of detecting changes in multivariate distributions to the simpler problem of detecting changes in univariate distributions. Please check it out.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-08-05-goddess-of-snakes/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-08-05-goddess-of-snakes/"/>
 		<updated>2023-08-06T01:54:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-08-05-goddess-of-snakes/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-08-05-goddess-of-snakes/</id>
 		<content type="html">&lt;p&gt;Installment 6 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/05/1950s-darna-goddess-of-snakes/&quot;&gt;&lt;em&gt;Goddess of Snakes&lt;/em&gt;&lt;/a&gt;. Valentina plots to reclaim the world back from the human race!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-07-22-valentinas-mission/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-07-22-valentinas-mission/"/>
 		<updated>2023-07-23T02:33:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-07-22-valentinas-mission/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-07-22-valentinas-mission/</id>
 		<content type="html">&lt;p&gt;Installment 5 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/07/22/1950s-darna-valentinas-mission/&quot;&gt;&lt;em&gt;Valentina&#39;s Mission&lt;/em&gt;&lt;/a&gt;. I said Darna will come back soon, but I was wrong. The story is heating up, though.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-07-16-valentina-breaks-free/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-07-16-valentina-breaks-free/"/>
 		<updated>2023-07-17T02:19:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-07-16-valentina-breaks-free/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-07-16-valentina-breaks-free/</id>
 		<content type="html">&lt;p&gt;On to &lt;a href=&quot;https://multoghost.wordpress.com/2023/07/16/1950s-darna-valentina-breaks-free/&quot;&gt;Installment 4&lt;/a&gt; of my 1950s Filipino Darna comics translation project: &lt;em&gt;Valentina Breaks Free&lt;/em&gt;. One more Valentina-focused episode, and we&#39;ll finally see Darna again!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-06-17-darna-03/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-06-17-darna-03/"/>
 		<updated>2023-06-18T02:41:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-06-17-darna-03/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-06-17-darna-03/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2023/06/17/1950s-darna-valentina-grows-up/&quot;&gt;Installment 3&lt;/a&gt; of my 1950s Filipino Darna comics translation project is now up: Valentina grows up.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-06-04-birth-of-valentina/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-06-04-birth-of-valentina/"/>
 		<updated>2023-06-04T18:22:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-06-04-birth-of-valentina/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-06-04-birth-of-valentina/</id>
 		<content type="html">&lt;p&gt;New project to translate the available 1950s Filipino Darna comics! I&#39;ve done Darna&#39;s origin; now &lt;a href=&quot;https://multoghost.wordpress.com/2023/06/03/1950s-darna-the-birth-of-valentina/&quot;&gt;here&#39;s installment two&lt;/a&gt;: the birth of Darna&#39;s enemy Valentina.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-05-29-darna-origin/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-05-29-darna-origin/"/>
 		<updated>2023-05-29T20:11:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-05-29-darna-origin/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-05-29-darna-origin/</id>
 		<content type="html">&lt;p&gt;Just for fun, I translated an old 1950s Filipino comic book story: &lt;a href=&quot;https://multoghost.wordpress.com/2023/05/29/darna-filipina-superhero/&quot;&gt;The origin of the superhero Darna&lt;/a&gt;. Created by Mars Ravelo, drawn by Nestor Redondo. Mostly so I could read it, myself.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Do Justly, Now</title>
-		<link href="https://ninazumel.com/blog/2023-05-12-do-justly-now/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-05-12-do-justly-now/"/>
 		<updated>2023-05-12T21:05:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-05-12-do-justly-now/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-05-12-do-justly-now/</id>
 		<content type="html">&lt;p&gt;Do not be daunted &lt;br&gt;
 by the enormity&lt;br&gt;
 of the world&#39;s grief. &lt;br&gt;
@@ -646,33 +655,33 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-05-02-mark-denton/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-05-02-mark-denton/"/>
 		<updated>2023-05-03T00:05:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-05-02-mark-denton/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-05-02-mark-denton/</id>
 		<content type="html">&lt;p&gt;Golden Age Comics meets Old Time Radio!  Here&#39;s a story from a 1953 comic book I adapted into a Mysterious Traveler radio script: &lt;a href=&quot;https://exiw.wordpress.com/2023/05/01/the-vengeance-of-mark-denton/&quot;&gt;The Vengeance of Mark Denton&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-04-30-sangster/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-30-sangster/"/>
 		<updated>2023-04-30T20:42:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-04-30-sangster/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-04-30-sangster/</id>
 		<content type="html">&lt;p&gt;📽️ Had myself a &lt;a href=&quot;https://multoghost.wordpress.com/2023/04/30/three-thrillers-by-jimmy-sangster/&quot;&gt;Jimmy Sangster mini film fest&lt;/a&gt;: not Hammer gothics but suspense thrillers (two by Hammer). One was &lt;em&gt;Scream of Fear&lt;/em&gt; (1961), a movie that doesn&#39;t get nearly enough love, IMHO.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-04-24-eternal-stooge/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/"/>
 		<updated>2023-04-25T01:22:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-04-24-eternal-stooge/</id>
-		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/&quot;&gt;&amp;quot;The Eternal Stooge&amp;quot;&lt;/a&gt;  is a devil&#39;s bargain tale (text, not graphic art) that I found in a remaindered collection&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://ninazumel.com/blog/2023-04-24-eternal-stooge/&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.&lt;/p&gt;
+		<id>https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/</id>
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/&quot;&gt;&amp;quot;The Eternal Stooge&amp;quot;&lt;/a&gt;  is a devil&#39;s bargain tale (text, not graphic art) that I found in a remaindered collection&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.&lt;/p&gt;
 &lt;p&gt;The frustrated straight-man to a famous comedian longs for a serious acting career. He sees his chance in a new Broadway production of Marlowe&#39;s &lt;em&gt;Dr. Faustus&lt;/em&gt;. But perhaps he should have waited for a play with a happier ending....&lt;/p&gt;
 &lt;hr class=&quot;footnotes-sep&quot;&gt;
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;ol class=&quot;footnotes-list&quot;&gt;
-&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Pre-Code Classics: &lt;em&gt;The Unseen&lt;/em&gt; Volume 1, PS Artbooks, 2017 &lt;a href=&quot;https://ninazumel.com/blog/2023-04-24-eternal-stooge/&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Pre-Code Classics: &lt;em&gt;The Unseen&lt;/em&gt; Volume 1, PS Artbooks, 2017 &lt;a href=&quot;https://ninazumel.com/short_thoughts/blog/2023-04-24-eternal-stooge/&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -681,9 +690,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-04-16-hypercard/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-16-hypercard/"/>
 		<updated>2023-04-16T16:48:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-04-16-hypercard/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-04-16-hypercard/</id>
 		<content type="html">&lt;blockquote&gt;
 &lt;p&gt;James Sime at Isotope Comics (in San Francisco) just released a &lt;a href=&quot;https://archive.org/details/hypercard_neuroblast-hypercard-diskzine&quot;&gt;&amp;quot;Hypercard Zine&amp;quot;&lt;/a&gt; that speaks to the cyberpunk times we&#39;re living in. Hosted at the Internet Archive, running on a vintage classic Mac OS.  (Hypercard was a circa 1987 tech that let people create hypertext documents long before &lt;a href=&quot;https://home.cern/science/computing/birth-web&quot;&gt;CERN&lt;/a&gt; published its first HTML page.)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -693,65 +702,65 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-04-10-polars-pandas-rosetta-stone/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-10-polars-pandas-rosetta-stone/"/>
 		<updated>2023-04-11T02:13:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-04-10-polars-pandas-rosetta-stone/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-04-10-polars-pandas-rosetta-stone/</id>
 		<content type="html">&lt;p&gt;Just created a &lt;a href=&quot;https://github.com/WinVector/Examples/blob/main/pandas_polars_rosettastone/rosetta.ipynb&quot;&gt;handy little Rosetta stone&lt;/a&gt; of common data operations in both &lt;code&gt;pandas&lt;/code&gt; and &lt;code&gt;polars&lt;/code&gt;. Maybe you’ll find it useful, too.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-04-07-abtesting/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-04-07-abtesting/"/>
 		<updated>2023-04-07T15:32:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-04-07-abtesting/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-04-07-abtesting/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/2023/04/07/what-why-how-abtesting.html&quot;&gt;The What, Why, and How of AB Testing&lt;/a&gt; --  written for one of my clients, but a handy reference that I wanted on my own blog, with their permission, of course.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-03-28-medieval-studies-mr-james/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-03-28-medieval-studies-mr-james/"/>
 		<updated>2023-03-29T00:26:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-03-28-medieval-studies-mr-james/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-03-28-medieval-studies-mr-james/</id>
 		<content type="html">&lt;p&gt;📚 Finished reading &lt;em&gt;Medieval Studies and the Ghost Stories of M.R. James&lt;/em&gt;. If you enjoy James&#39;s ghost stories, and like learning about the connections between his fiction and his academic research, this is for you. &lt;a href=&quot;https://multoghost.wordpress.com/2023/03/27/medieval-studies-and-the-ghost-stories-of-m-r-james/&quot;&gt;Full review here&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-03-21-obsidian/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-03-21-obsidian/"/>
 		<updated>2023-03-22T02:56:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-03-21-obsidian/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-03-21-obsidian/</id>
 		<content type="html">&lt;p&gt;All you Obsidian fans convinced me: I&#39;ve just switched from Bear and Scrivener to Obsidian. Now it&#39;s time to stop playing with productivity apps and finally be productive.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-25-bookshelf-done/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-25-bookshelf-done/"/>
 		<updated>2023-02-26T02:14:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-25-bookshelf-done/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-25-bookshelf-done/</id>
 		<content type="html">&lt;p&gt;I&#39;ve got &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;The Library of Babble&lt;/a&gt; up to date, and organized by category. That itch has been scratched. Now back to reading so I can add more books to the shelf...&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-24-bookspine-lit/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-24-bookspine-lit/"/>
 		<updated>2023-02-24T21:31:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-24-bookspine-lit/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-24-bookspine-lit/</id>
 		<content type="html">&lt;br&gt;
-&lt;img alt=&quot;a stack of books&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/img/bookspine_lit-GB5ar3I7eI-400.png&quot; width=&quot;1000&quot; height=&quot;750&quot; srcset=&quot;https://ninazumel.com/img/bookspine_lit-GB5ar3I7eI-400.png 400w, https://ninazumel.com/img/bookspine_lit-GB5ar3I7eI-800.png 800w, https://ninazumel.com/img/bookspine_lit-GB5ar3I7eI-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;img alt=&quot;a stack of books&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-400.png&quot; width=&quot;1000&quot; height=&quot;750&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-400.png 400w, https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-800.png 800w, https://ninazumel.com/short_thoughts/img/bookspine_lit-GB5ar3I7eI-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2012/05/07/book-spine-literature/&quot;&gt;Bookspine Literature&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-24-quotes/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-24-quotes/"/>
 		<updated>2023-02-24T21:04:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-24-quotes/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-24-quotes/</id>
 		<content type="html">&lt;blockquote&gt;
 &lt;p&gt;The untapped natural resources of crackpottery in this country...would astonish you. There is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Gresham%27s_law&quot;&gt;Gresham&#39;s Law&lt;/a&gt; of the mass intellect: muddle-headedness inevitably drives out clear thinking. And the political science of the future lies in the control and the application of that law to purposive ends.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -761,9 +770,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-14-more-books/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-14-more-books/"/>
 		<updated>2023-02-14T22:00:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-14-more-books/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-14-more-books/</id>
 		<content type="html">&lt;p&gt;📚  I’ve finished loading up a first round of books to &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;&lt;strong&gt;The Library of Babble&lt;/strong&gt;&lt;/a&gt;. These are all the books that were in my current spreadsheet that had book covers online at the Open Library. The bookshelf template I’m using can load the covers from the Open Library ID. Handy!&lt;/p&gt;
 &lt;p&gt;Next comes the rest of the spreadsheet: books for which I have to generate a cover image. Then, I have to finish populating the spreadsheet, with the remaining entries from 2012 and 2011.&lt;/p&gt;
 &lt;p&gt;Progress! Do check it out.&lt;/p&gt;
@@ -772,9 +781,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-12-bookshelf/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-12-bookshelf/"/>
 		<updated>2023-02-12T19:26:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-12-bookshelf/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-12-bookshelf/</id>
 		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;&lt;strong&gt;The Library of Babble&lt;/strong&gt;&lt;/a&gt;. My contemplated bookshelf project has indeed started. Rather than a bookshelf of &lt;em&gt;Reading&lt;/em&gt;, &lt;em&gt;Want to Read&lt;/em&gt;, and &lt;em&gt;Finished&lt;/em&gt;, with ratings, this is a shelf of books that I&#39;ve mentioned on my blog &lt;em&gt;Multo&lt;/em&gt; over the years.&lt;/p&gt;
 &lt;p&gt;It&#39;s not a shelf of reviews; it&#39;s more like a visual representation of the books that have affected my blogging life thus far. Or will, be when I&#39;ve finished populating it with past books. And there are a lot of straight reviews, especially more recently.&lt;/p&gt;
 &lt;p&gt;Time breakdown so far:&lt;/p&gt;
@@ -798,27 +807,27 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-10-honjin/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-10-honjin/"/>
 		<updated>2023-02-10T23:16:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-10-honjin/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-10-honjin/</id>
 		<content type="html">&lt;p&gt;📚 Just finished &lt;em&gt;The Honjin Murders&lt;/em&gt; by Seishi Yokomizo, a locked room mystery set in 1937 Japan. First published in 1946. It&#39;s a doozy! &lt;a href=&quot;https://multoghost.wordpress.com/2023/02/10/reading-the-honjin-murders/&quot;&gt;My full review here.&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-08-reader/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-08-reader/"/>
 		<updated>2023-02-09T05:30:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-08-reader/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-08-reader/</id>
 		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://multoghost.wordpress.com/2018/08/13/on-the-obligations-of-the-reader/&quot;&gt;&lt;strong&gt;On the Obligations of the Reader&lt;/strong&gt;&lt;/a&gt; -- I wrote this a few years ago, and I feel like boosting it again today. Be the reader your favorite writers deserve.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-02-08-websites/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-02-08-websites/"/>
 		<updated>2023-02-08T21:48:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-02-08-websites/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-02-08-websites/</id>
 		<content type="html">&lt;p&gt;For the last several months, I’ve had this weird urge to build websites. I don’t know why; I’m crap at it — the only way I can do it is to fork other peoples’ repos and painstakingly tweak them to what I want. And I can’t stand up my own server or even connect my jekyll sites to micropub to save my life.&lt;/p&gt;
 &lt;p&gt;But hey, it’s a creative urge, I guess I’ll go with it. A new bookshelf project possibly in the works. Maybe you’ll see it soon, if I haven’t just jinxed it with this post.&lt;/p&gt;
 </content>
@@ -826,22 +835,22 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-27-kipling/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-27-kipling/"/>
 		<updated>2023-01-27T06:17:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-27-kipling/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-27-kipling/</id>
 		<content type="html">&lt;p&gt;Today I learned -- from an essay about Sherlock Holmes scholarship, of all things -- that Kipling&#39;s &amp;quot;The White Man&#39;s Burden&amp;quot; was about the American occupation of the Philippines, not the British occupation of India. Huh. Doesn&#39;t make it any better, obviously.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-26-commonplace-redux/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-26-commonplace-redux/"/>
 		<updated>2023-01-27T04:31:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-26-commonplace-redux/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-26-commonplace-redux/</id>
 		<content type="html">&lt;p&gt;📓📝 About a month ago, I started keeping a &lt;a href=&quot;https://ninazumel.com/short_thoughts/2022/12/28/commonplace-book.html&quot;&gt;commonplace book&lt;/a&gt; to capture interesting things I come across online. Originally, it was in Scrivener on my desktop, which is my primary machine for work and for my writing.&lt;/p&gt;
 &lt;p&gt;But I also do a lot of my leisure-time online reading on my laptop, and my Scrivener commonplace book wasn&#39;t in the cloud. At first, I&#39;d save links to interesting articles to Apple Notes, and put them in Scrivener the next time I was at my desktop, but that got old really fast.&lt;/p&gt;
 &lt;p&gt;So I&#39;ve moved from Scrivener to &lt;a href=&quot;https://bookdown.org/&quot;&gt;bookdown&lt;/a&gt;, which generates an HTML book from Rmarkdown that I can peruse locally from my browser.&lt;/p&gt;
-&lt;img alt=&quot;My commonplace book, via bookdown&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/img/commonplace_book-EQQ6DIYoSg-400.png&quot; width=&quot;1096&quot; height=&quot;1138&quot; srcset=&quot;https://ninazumel.com/img/commonplace_book-EQQ6DIYoSg-400.png 400w, https://ninazumel.com/img/commonplace_book-EQQ6DIYoSg-800.png 800w, https://ninazumel.com/img/commonplace_book-EQQ6DIYoSg-1096.png 1096w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;img alt=&quot;My commonplace book, via bookdown&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-400.png&quot; width=&quot;1096&quot; height=&quot;1138&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-400.png 400w, https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-800.png 800w, https://ninazumel.com/short_thoughts/img/commonplace_book-EQQ6DIYoSg-1096.png 1096w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;Bookdown is overkill; I don&#39;t need any R functionality, nor do I need to generate the book in PDF or EPUB, or any other format that bookdown supports. Probably &lt;a href=&quot;https://rust-lang.github.io/mdBook/&quot;&gt;mdBook&lt;/a&gt; would have made more sense. But R and the RStudio IDE are already on both my laptop and desktop, and it&#39;s nice to just create a new Rmarkdown file and press &amp;quot;Build.&amp;quot;&lt;/p&gt;
 &lt;p&gt;Now I can add to my clippings from either machine, and keep the book synchronized with a private repository on GitHub. And I can read it from both places, too, which is a bonus I hadn&#39;t been planning on when I started this practice.&lt;/p&gt;
 </content>
@@ -849,9 +858,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-22-the-ideal/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-22-the-ideal/"/>
 		<updated>2023-01-22T22:58:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-22-the-ideal/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-22-the-ideal/</id>
 		<content type="html">&lt;p&gt;💬&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Shall we continue to raise our eyes to heaven? Is the luminous point which we distinguish there one of those which vanish? The ideal is frightful to behold, thus lost in the depths, small, isolated, imperceptible, brilliant, but surrounded by those great, black menaces, monstrously heaped around it; yet no more in danger than a star in the maw of the clouds.&lt;/p&gt;
@@ -862,27 +871,27 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-20-ghosts-from-the-library/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-20-ghosts-from-the-library/"/>
 		<updated>2023-01-20T23:17:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-20-ghosts-from-the-library/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-20-ghosts-from-the-library/</id>
 		<content type="html">&lt;p&gt;📚 Finished reading &lt;em&gt;Ghosts from the Library&lt;/em&gt;, an anthology of lost and forgotten supernaturalish tales from well-known Golden Age mystery writers. Uneven, but fun. &lt;a href=&quot;https://multoghost.wordpress.com/2023/01/20/reading-ghosts-in-the-library/&quot;&gt;My review is here&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-06-mcsweeneys-life-reviews/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-06-mcsweeneys-life-reviews/"/>
 		<updated>2023-01-06T17:31:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-06-mcsweeneys-life-reviews/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-06-mcsweeneys-life-reviews/</id>
 		<content type="html">&lt;p&gt;📚 Related to my previous post, I found this: &lt;a href=&quot;https://www.mcsweeneys.net/articles/if-goodreads-users-reviewed-your-life-the-way-they-reviewed-your-book&quot;&gt;&lt;em&gt;If Goodreads Users Reviewed Your LIfe the Way they Reviewed Your Book&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Against Cruel Book Reviews</title>
-		<link href="https://ninazumel.com/blog/2023-01-06-bad-book-reviews/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-06-bad-book-reviews/"/>
 		<updated>2023-01-06T17:30:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-06-bad-book-reviews/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-06-bad-book-reviews/</id>
 		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://lithub.com/the-most-scathing-book-reviews-of-2022/&quot;&gt;&lt;strong&gt;The Most Scathing Book Reviews of 2022&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There’s something about the joy people take in reading vicious book reviews like these that sits wrong with me. Oh, I know that two of the books on this list are probably vile works, written by vile people. And the other authors are famous personages and/or well-regarded writers, so they presumably have thick skins and reputations to protect them. But the gleeful responses of some of the people in the comments---I dunno:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -896,18 +905,18 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2023-01-05-tale-of-gaslight-ghost/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2023-01-05-tale-of-gaslight-ghost/"/>
 		<updated>2023-01-05T17:01:00Z</updated>
-		<id>https://ninazumel.com/blog/2023-01-05-tale-of-gaslight-ghost/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2023-01-05-tale-of-gaslight-ghost/</id>
 		<content type="html">&lt;p&gt;📚 ❄️ The last winter tale for this season is a short and somewhat unusual one.  In &lt;a href=&quot;https://multoghost.wordpress.com/2023/01/05/the-tale-of-a-gas-light-ghost/&quot;&gt;&amp;quot;The Tale of a Gas-Light Ghost,&amp;quot;&lt;/a&gt; mysterious Gregory Barnstake comes to live in rural Mapleton. What&#39;s his secret? Read and find out...&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-28-commonplace-book/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-28-commonplace-book/"/>
 		<updated>2022-12-28T22:42:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-28-commonplace-book/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-28-commonplace-book/</id>
 		<content type="html">&lt;p&gt;📓 📝 I&#39;ve started keeping a commonplace book for inspirational things I find online. I&#39;m using &lt;a href=&quot;https://www.literatureandlatte.com/scrivener/overview&quot;&gt;Scrivener&lt;/a&gt;. Usually, I copy/paste the article or excerpt directly in, and add a link to the source. Sometimes, I&#39;ll use Scrivener&#39;s &amp;quot;import from the web&amp;quot; research feature. Scrivener lets me attach my own notes to the documents as well.&lt;/p&gt;
 &lt;p&gt;It&#39;s not fancy; it&#39;s not in the cloud. But it&#39;s slightly more organized than saving stuff as browser bookmarks or reading lists, which is what I used to do. And I love Scrivener; I use it so many ways. I think this will work.&lt;/p&gt;
 </content>
@@ -915,18 +924,18 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-28-a-curious-experience/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-28-a-curious-experience/"/>
 		<updated>2022-12-28T22:06:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-28-a-curious-experience/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-28-a-curious-experience/</id>
 		<content type="html">&lt;p&gt;📚 ❄️ Winter tales continue through the twelve days of Christmas with &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/28/a-curious-experience/&quot;&gt;&amp;quot;A Curious Experience,&amp;quot;&lt;/a&gt; by Ellen Wood. There&#39;s something not right about this beautiful boarding house bedroom.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Things I&#39;ve Learned from Reading Ghost Stories</title>
-		<link href="https://ninazumel.com/blog/2022-12-27-things-ive-learned/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-27-things-ive-learned/"/>
 		<updated>2022-12-27T17:02:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-27-things-ive-learned/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-27-things-ive-learned/</id>
 		<content type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;If the rent or sale price seems too good to be true - it is.&lt;/p&gt;
@@ -970,45 +979,45 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-26-new-theme/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-26-new-theme/"/>
 		<updated>2022-12-26T19:26:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-26-new-theme/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-26-new-theme/</id>
 		<content type="html">&lt;p&gt;Happy Boxing Day! I&#39;ve changed my blog theme to something slightly less primitive. Little changes can make a big difference.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-25-merry-christmas/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-25-merry-christmas/"/>
 		<updated>2022-12-25T17:05:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-25-merry-christmas/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-25-merry-christmas/</id>
 		<content type="html">&lt;p&gt;A Merry Christmas to all who celebrate it, and a joyous day to all who don&#39;t! 🎄🎄&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-24-squire-humperdinck/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-24-squire-humperdinck/"/>
 		<updated>2022-12-24T16:10:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-24-squire-humperdinck/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-24-squire-humperdinck/</id>
 		<content type="html">&lt;p&gt;📚 On Christmas Eve, I always post a lighter winter tale: &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/24/squire-humperdinck-and-the-devil/&quot;&gt;Squire Humperdinck and the Devil&lt;/a&gt; is a delightful fairy tale about a greedy landowner and a mischievous little boy who foils the squire&#39;s evil plans. Happy Holidays, and enjoy!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-19-sister-johannas-story/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-19-sister-johannas-story/"/>
 		<updated>2022-12-20T04:58:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-19-sister-johannas-story/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-19-sister-johannas-story/</id>
 		<content type="html">&lt;p&gt;📚 New winter tale: &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/19/sister-johannas-story/&quot;&gt;&amp;quot;Sister Johanna&#39;s Story&amp;quot;&lt;/a&gt; (1873) is a love-triangle ghost story by Amelia Edwards, inspired by her travels through the Gröden Valley in the Dolomite Alps. Heartbreaking, but lovely.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>On Content</title>
-		<link href="https://ninazumel.com/blog/2022-12-18-content/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-18-content/"/>
 		<updated>2022-12-18T18:21:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-18-content/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-18-content/</id>
 		<content type="html">&lt;p&gt;I&#39;ve been thinking about the evolution of the word &amp;quot;content&amp;quot; as it relates to creative endeavors. &amp;quot;Content&amp;quot; used to be a quality of a creative work, especially a piece of writing: &amp;quot;this article has no content&amp;quot; means that it&#39;s fluff, a puff piece, filler. Now we talk about an article &lt;em&gt;as&lt;/em&gt; content---eliding the difference between a substantive, thoughtful piece of writing (or other creative act), and filler meant to keep the writer visible in their social media feeds. It&#39;s disrespectful of both creators and the works that they produce.&lt;/p&gt;
 &lt;p&gt;So I now try to consciously avoid the word &amp;quot;content&amp;quot; as a synonym for a body of creative work. I try to use a specific word: &amp;quot;posts,&amp;quot; &amp;quot;articles,&amp;quot; &amp;quot;writing,&amp;quot; or even &amp;quot;creative work.&amp;quot;&lt;/p&gt;
 &lt;p&gt;I don&#39;t want to get preachy about it, but I put this idea out there because I&#39;d like to encourage other people who think like I do to do the same.&lt;/p&gt;
@@ -1018,9 +1027,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-15-rss/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-15-rss/"/>
 		<updated>2022-12-16T03:40:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-15-rss/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-15-rss/</id>
 		<content type="html">&lt;p&gt;After many years, I&#39;ve finally started using an RSS reader again. As someone who prefers medium-to-long form writing, I&#39;m wondering why I ever stopped! It&#39;s reinvigorated my online reading.&lt;/p&gt;
 &lt;p&gt;RSS is just the perfect way for me to follow other people&#39;s writing. Mailing list notifications tend to get in the way; I don&#39;t necessarily want to deal with those emails when I get them, and if I put them aside, they tend to get lost or pile up, until I delete them wholesale in a fit of &amp;quot;tidying up.&amp;quot; Single-threaded chronological feeds, like the Wordpress Reader, or Micro.blog (or Twitter or Mastodon, if you follow microblogs), don&#39;t work as well for people (like me) who don&#39;t live on the feed, and they also disadvantage writers who post less frequently.&lt;/p&gt;
 &lt;p&gt;But with my RSS reader (I use Reeder), I can check in when I feel like it, and see everyone who&#39;s posted since the last time, and easily pick what I want to read, and from whom. It&#39;s great.&lt;/p&gt;
@@ -1031,27 +1040,27 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-15-ghost-of-charlotte-cray/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-15-ghost-of-charlotte-cray/"/>
 		<updated>2022-12-15T16:20:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-15-ghost-of-charlotte-cray/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-15-ghost-of-charlotte-cray/</id>
 		<content type="html">&lt;p&gt;📚 New winter tale! &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/15/the-ghost-of-charlotte-cray/&quot;&gt;&amp;quot;The Ghost of Charlotte Cray&amp;quot;&lt;/a&gt; is a lighter-hearted story by Florence Marryat, author of &lt;em&gt;The Blood of the Vampire&lt;/em&gt;. It&#39;s also a warning that playboy-types should be more careful in their relationships. Enjoy!&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-8-number-two-melrose-square/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-8-number-two-melrose-square/"/>
 		<updated>2022-12-08T16:28:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-8-number-two-melrose-square/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-8-number-two-melrose-square/</id>
 		<content type="html">&lt;p&gt;📚 New winter tale! &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/08/number-two-melrose-square/&quot;&gt;Number Two, Melrose Square&lt;/a&gt; is a haunted house story by Theo Gift, from 1880. If the rent sounds too good to be true, it probably is.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-12-1-musical-mystery/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-12-1-musical-mystery/"/>
 		<updated>2022-12-01T16:56:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-12-1-musical-mystery/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-12-1-musical-mystery/</id>
 		<content type="html">&lt;p&gt;📚 Winter Tales time! My annual tradition of sharing Christmas season ghost stories starts with &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/01/winter-tales-time-a-musical-mystery/&quot;&gt;A Musical Mystery&lt;/a&gt;, first published 1875.&lt;/p&gt;
 &lt;p&gt;I&#39;ll be posting about one a week, until Epiphany.&lt;/p&gt;
 </content>
@@ -1059,18 +1068,18 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-30-stationery/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-30-stationery/"/>
 		<updated>2022-11-30T20:49:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-30-stationery/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-30-stationery/</id>
 		<content type="html">&lt;p&gt;🖋️ 📓 Thanks to work avoidance, I&#39;ve rediscovered &lt;a href=&quot;https://johnmount.github.io/mzlabs/JMWriting/Stationery.html&quot;&gt;&lt;strong&gt;Good Stationery as a Tool of Thought&lt;/strong&gt;&lt;/a&gt;, a little piece my husband and colleague John Mount wrote some years back. I thought some of the pen and personal productivity nerds here might enjoy it.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Back to the Dilemnaverse</title>
-		<link href="https://ninazumel.com/blog/2022-11-28-back-to-the-dilemna-verse/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-28-back-to-the-dilemna-verse/"/>
 		<updated>2022-11-29T00:50:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-28-back-to-the-dilemna-verse/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-28-back-to-the-dilemna-verse/</id>
 		<content type="html">&lt;p&gt;Earlier today, my husband, who knows he can&#39;t spell, asked me how to spell &amp;quot;dilemma.&amp;quot; I spelled it to him out loud, the way I have always spelled the word: d-i-l-e-m-&lt;strong&gt;N&lt;/strong&gt;-a. And I reflexively added, &amp;quot;Google it, to make sure.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&amp;quot;Here it is,&amp;quot; he replied. &amp;quot;Two Ms.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&amp;quot;What?!? No, it&#39;s &#39;M-N&#39;&amp;quot;, I said.&lt;/p&gt;
@@ -1098,9 +1107,9 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title>Social Media Party</title>
-		<link href="https://ninazumel.com/blog/2022-11-23-social-media-party/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-23-social-media-party/"/>
 		<updated>2022-11-23T18:46:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-23-social-media-party/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-23-social-media-party/</id>
 		<content type="html">&lt;p&gt;Last night, I invented a new dish, a fusion of Mexican &lt;em&gt;arroz amarillo&lt;/em&gt; and South Asian &lt;em&gt;kichidi&lt;/em&gt; that I dubbed “Mexican Kichidi.” It was delicious, and while cooking it I had excited plans to photograph my culinary creation and post my new brainchild. But when the cooking was over and the time came, I decided: &lt;em&gt;screw it, I’d rather just sit and eat this&lt;/em&gt;. Who cares, after all, except my husband and me, and maybe the people I might make this for in the future? And they can find out about it then.&lt;/p&gt;
 &lt;p&gt;The above has always been my feeling about social media (and microblogging). &lt;em&gt;Why would anybody care?&lt;/em&gt; I never saw the point of Twitter, for instance, unless one had a blog, or some other fount of creation (I won’t call it “content”), and one wanted to share their new creations with interested people in the world. Or even share other people’s interesting creations. And the kind of more personal stuff people often share on Facebook and equivalents (pictures of food, pictures of kids or pets…) — I do that too, but with my real-life, in-person friends: people who might actually care, because they know me. They know my context.&lt;/p&gt;
 &lt;p&gt;Pundits sometimes deride social media as “performative,” but that’s not my issue. I have no problem “performing”— the reason I have so many blogs is to separate the various aspects of myself that I want to “perform” in public. My issue, I realized, is that social media is to a large degree &lt;em&gt;small talk&lt;/em&gt;. And I hate small talk. I’ve never been good at it, I have trouble initiating it. I’ve gotten better at following through, but my gawd, it’s &lt;em&gt;work&lt;/em&gt;.&lt;/p&gt;
@@ -1112,18 +1121,18 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-21-dorian-gray/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-21-dorian-gray/"/>
 		<updated>2022-11-21T21:21:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-21-dorian-gray/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-21-dorian-gray/</id>
 		<content type="html">&lt;p&gt;📚 I once &lt;a href=&quot;https://multoghost.wordpress.com/tag/dorian-gray/?order=asc&quot;&gt;dissected all the flower imagery in &lt;em&gt;The Picture of Dorian Gray&lt;/em&gt;&lt;/a&gt;. It was a fun exercise. It&#39;s a three-part series, still holds up.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-20-streaming_vod/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-20-streaming_vod/"/>
 		<updated>2022-11-20T18:11:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-20-streaming_vod/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-20-streaming_vod/</id>
 		<content type="html">&lt;p&gt;🍿 In case you find it useful: some cool &lt;strong&gt;non-subscription streaming sites (VOD)&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1141,36 +1150,36 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-18-observation/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-18-observation/"/>
 		<updated>2022-11-19T00:17:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-18-observation/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-18-observation/</id>
 		<content type="html">&lt;p&gt;Observation, not complaint: The 📚 and 🍿 discover categories here are mostly &amp;quot;Currently reading X&amp;quot;, or &amp;quot;Movie: {some number of stars}&amp;quot;. That&#39;s nice and all, but I&#39;m kinda wishing for more discussion, or at least a description. Or a link to the post on your book/film blog...&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-18-vincent-price/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-18-vincent-price/"/>
 		<updated>2022-11-18T22:11:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-18-vincent-price/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-18-vincent-price/</id>
 		<content type="html">&lt;p&gt;These &lt;a href=&quot;https://www.youtube.com/watch?v=GfxCAURVUuE&quot;&gt;&lt;em&gt;Vincent Price Weird Mysteries&lt;/em&gt;&lt;/a&gt; are great for folding laundry. One story is the perfect length to finish the job.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-11-I-write-I-think/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-11-I-write-I-think/"/>
 		<updated>2022-11-11T21:14:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-11-I-write-I-think/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-11-I-write-I-think/</id>
 		<content type="html">&lt;p&gt;Something I wrote ten years ago, and is still one of my favorite pieces: &lt;a href=&quot;https://ninazumel.com/2012/10/11/i-write-therefore-i-think/&quot;&gt;&lt;em&gt;I Write, Therefore I Think&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-11-why-I-write/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-11-why-I-write/"/>
 		<updated>2022-11-11T20:41:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-11-why-I-write/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-11-why-I-write/</id>
 		<content type="html">&lt;p&gt;💬 A brief conversation with @annahavron inspired me to look up this wonderful Joan Didion quote:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Had I been blessed with even limited access to my own mind there would have been no reason to write. I write entirely to find out what I&#39;m thinking, what I&#39;m looking at, what I see and what it means. What I want and what I fear. ... What is going on in these pictures in my mind?&lt;/p&gt;
@@ -1182,72 +1191,72 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-09-the-bells/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-09-the-bells/"/>
 		<updated>2022-11-10T00:50:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-09-the-bells/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-09-the-bells/</id>
 		<content type="html">&lt;p&gt;🎥 &lt;a href=&quot;https://archive.org/details/THEBELLS1926SilentLionelBarrymoreBorisKarloff&quot;&gt;The Bells&lt;/a&gt; is a 1926 silent film starring Lionel Barrymore and featuring Boris Karloff in what should have been his breakout role. I watched it because I&#39;m a Karloff fan -- it&#39;s pretty good, except the ending. It&#39;s based on an 1867 French play by Erckmann-Chatrian, and I found the &lt;a href=&quot;http://gaslight-lit.s3-website.ca-central-1.amazonaws.com/gaslight/thebells.htm&quot;&gt;English adaptation&lt;/a&gt;. The play&#39;s ending is much better.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-07-elections/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-07-elections/"/>
 		<updated>2022-11-08T03:15:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-07-elections/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-07-elections/</id>
 		<content type="html">&lt;p&gt;The best thing about getting past election day will be the end of all these stupid campaign texts. For now...&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-07-winter-tales/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-07-winter-tales/"/>
 		<updated>2022-11-08T02:45:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-07-winter-tales/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-07-winter-tales/</id>
 		<content type="html">&lt;p&gt;I need seven ghost stories to share for Winter Tales season; I&#39;ve picked six. Two strong candidates for the last one. It should be a fun mix this year. 📚&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-06-sunday-project2/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-06-sunday-project2/"/>
 		<updated>2022-11-06T17:12:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-06-sunday-project2/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-06-sunday-project2/</id>
 		<content type="html">&lt;p&gt;It&#39;s also a perfect day to curl up and read &lt;em&gt;The Ghosts &amp;amp; Scholars Book of Follies and Grottoes&lt;/em&gt;. I love Rosemary Pardoe&#39;s anthologies; I wish they weren&#39;t so pricy. 📚 👻&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-06-sunday-project/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-06-sunday-project/"/>
 		<updated>2022-11-06T17:08:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-06-sunday-project/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-06-sunday-project/</id>
 		<content type="html">&lt;p&gt;Sunday plans: Time to start gathering Christmas ghost stories for my annual &lt;a href=&quot;https://multoghost.wordpress.com/winter-tales/&quot;&gt;Winter Tales&lt;/a&gt; series. 📚 👻&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-05-why/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-05-why/"/>
 		<updated>2022-11-06T06:30:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-05-why/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-05-why/</id>
 		<content type="html">&lt;p&gt;Why on earth do I have 99 followers on GitHub??? Almost nothing I do on Github is public, except my blogs. So weird.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-05-darkness-at-blaisedon/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-05-darkness-at-blaisedon/"/>
 		<updated>2022-11-06T01:34:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-05-darkness-at-blaisedon/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-05-darkness-at-blaisedon/</id>
 		<content type="html">&lt;p&gt;Wrapping up my series of early never-made occult detective TV shows with &lt;a href=&quot;https://multoghost.wordpress.com/2022/11/05/before-kolchak-v-a-darkness-at-blaisedon/&quot;&gt;&lt;em&gt;A Darkness at Blaisedon&lt;/em&gt;&lt;/a&gt; (1969). I hate to finish on a downbeat note, but only Dan Curtis fans will be warm about this one. 📺 👻 🕵🏽‍♀️&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-04-creeps-by-night/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-04-creeps-by-night/"/>
 		<updated>2022-11-05T01:15:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-04-creeps-by-night/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-04-creeps-by-night/</id>
 		<content type="html">&lt;p&gt;📚  Picked up a copy of &lt;a href=&quot;https://www.isfdb.org/cgi-bin/title.cgi?1027309&quot;&gt;&lt;em&gt;Creeps by Night&lt;/em&gt;&lt;/a&gt;, a 1931 anthology of spooky and macabre short stories, edited by Dashiell Hammett. My 1944 edition has 20 stories, plus an intro by Hammett, like the 1931 edition does; later reprints only include ten stories. So it was worth doing the research before dropping the hammer on biblio.com. I&#39;m curious to check out his selection.&lt;/p&gt;
 &lt;p&gt;My edition is from World Publishing, who also released two &amp;quot;terror tale&amp;quot; anthologies by Boris Karloff, &lt;a href=&quot;https://multoghost.wordpress.com/2019/05/31/boris-karloff-terror-tale-anthologist/&quot;&gt;&lt;em&gt;Tales of Terror&lt;/em&gt;&lt;/a&gt; from 1943, and &lt;a href=&quot;https://multoghost.wordpress.com/2019/06/10/karloffs-and-the-darkness-falls/&quot;&gt;&lt;em&gt;And the Darkness Falls&lt;/em&gt;&lt;/a&gt; from 1946. They&#39;re both good, but I really enjoyed &lt;em&gt;And the Darkness Falls&lt;/em&gt;; just a great selection. I hope the Hammett is a winner, too.&lt;/p&gt;
 </content>
@@ -1255,20 +1264,20 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-11-04-imagetest/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-11-04-imagetest/"/>
 		<updated>2022-11-04T21:09:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-11-04-imagetest/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-11-04-imagetest/</id>
 		<content type="html">&lt;p&gt;Testing images on my blog&lt;/p&gt;
-&lt;img alt=&quot;Palacio Crystal, Madrid&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/img/PalacioCrystal-0Zish3rkql-400.png&quot; width=&quot;1000&quot; height=&quot;667&quot; srcset=&quot;https://ninazumel.com/img/PalacioCrystal-0Zish3rkql-400.png 400w, https://ninazumel.com/img/PalacioCrystal-0Zish3rkql-800.png 800w, https://ninazumel.com/img/PalacioCrystal-0Zish3rkql-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;img alt=&quot;Palacio Crystal, Madrid&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-400.png&quot; width=&quot;1000&quot; height=&quot;667&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-400.png 400w, https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-800.png 800w, https://ninazumel.com/short_thoughts/img/PalacioCrystal-0Zish3rkql-1000.png 1000w&quot; sizes=&quot;100vw&quot;&gt;
 &lt;p&gt;This is the Palacio Crystal, in El Retiro (Retiro Park), Madrid. I took it in 2016.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-10-31-why/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-10-31-why/"/>
 		<updated>2022-11-01T05:13:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-10-31-why/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-10-31-why/</id>
 		<content type="html">&lt;p&gt;The reason I made my own microblogging site is so that I can announce my new long-form posts with an introduction. The stark &amp;quot;title + link&amp;quot; format I get by syndicating my blogs directly on Micro.blog isn&#39;t very friendly, or attractive.&lt;/p&gt;
 &lt;p&gt;For casual chat, a static Jekyll site isn&#39;t the best way to microblog; it cuts down on the spontaneity. But I&#39;ve never been a chatty person anyway. This will suit most of my microblogging needs just fine.&lt;/p&gt;
 &lt;p&gt;And now I can disconnect most of my other direct blog feeds to Micro.blog.&lt;/p&gt;
@@ -1277,18 +1286,18 @@ to abandon it. &lt;br&gt;&lt;/p&gt;
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-10-31-halloween/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-10-31-halloween/"/>
 		<updated>2022-11-01T03:58:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-10-31-halloween/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-10-31-halloween/</id>
 		<content type="html">&lt;p&gt;Happy Halloween! 🎃 👻&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
-		<link href="https://ninazumel.com/blog/2022-10-30-firstpost/"/>
+		<link href="https://ninazumel.com/short_thoughts/blog/2022-10-30-firstpost/"/>
 		<updated>2022-10-31T01:23:00Z</updated>
-		<id>https://ninazumel.com/blog/2022-10-30-firstpost/</id>
+		<id>https://ninazumel.com/short_thoughts/blog/2022-10-30-firstpost/</id>
 		<content type="html">&lt;p&gt;Testing the plumbing.&lt;/p&gt;
 </content>
 	</entry>
