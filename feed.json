@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-05-27-algorithmic-art/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-05-27-algorithmic-art/",
+			"title": "",
+			"content_html": "<img alt=\"Abstract, algorithmically generated image\" loading=\"lazy\" decoding=\"async\" src=\"https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-400.png\" width=\"512\" height=\"512\" srcset=\"https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-400.png 400w, https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-512.png 512w\" sizes=\"100vw\">\n<p>I've been <a href=\"https://ninazumel.com/blog/2024-05-27-algorithmic-art/\">playing with Algorithmic Art</a> this weekend.</p>\n",
+			"date_published": "2024-05-27T22:01:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-05-03-anansi/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-05-03-anansi/",
 			"title": "",

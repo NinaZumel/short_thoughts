@@ -4,12 +4,22 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-05-03T18:00:00Z</updated>
+	<updated>2024-05-27T22:01:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-05-27-algorithmic-art/"/>
+		<updated>2024-05-27T22:01:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-05-27-algorithmic-art/</id>
+		<content type="html">&lt;img alt=&quot;Abstract, algorithmically generated image&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-400.png&quot; width=&quot;512&quot; height=&quot;512&quot; srcset=&quot;https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-400.png 400w, https://ninazumel.com/short_thoughts/img/allcolors_random_start-8E6V7h94px-512.png 512w&quot; sizes=&quot;100vw&quot;&gt;
+&lt;p&gt;I&#39;ve been &lt;a href=&quot;https://ninazumel.com/blog/2024-05-27-algorithmic-art/&quot;&gt;playing with Algorithmic Art&lt;/a&gt; this weekend.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
