@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-06-18T17:38:00Z</updated>
+	<updated>2024-07-17T17:37:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-07-17-simpsons-paradox/"/>
+		<updated>2024-07-17T17:37:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-07-17-simpsons-paradox/</id>
+		<content type="html">&lt;p&gt;Wrote a &lt;a href=&quot;https://ninazumel.com/blog/2024-07-16-simpsons-paradox-as-logistic-regression/&quot;&gt;little technical note&lt;/a&gt; about Simpson&#39;s paradox and logistic regression.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
