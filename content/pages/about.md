@@ -40,7 +40,7 @@ eleventyNavigation:
 
     [**Ephemera**](https://exiw.wordpress.com): Lately, I've been using this blog mostly for my translations of public domain, Spanish language supernatural short fiction.
 
-    [**Dark Tales Sleuth**](https://darktalessleuth.wordpress.com): A blog I use for my forays into "literary sleuthing": tracking down author attributions and original publication sources of unattributed (usually public domain) works.
+    [**Dark Tales Sleuth**](https://ninazumel.com/dark_tales_sleuth/): A blog I use for my forays into "literary sleuthing": tracking down author attributions and original publication sources of unattributed (usually public domain) works.
 
     [**NinaZumel.com**](https://ninazumel.com): My professional presence online, where I sometimes write about data science and other technical interests. 
 </div>
