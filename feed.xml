@@ -4,12 +4,28 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-08-16T20:08:00Z</updated>
+	<updated>2024-08-28T16:12:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title>What I&#39;ve Been Up To</title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/"/>
+		<updated>2024-08-28T16:12:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/</id>
+		<content type="html">&lt;p&gt;I&#39;ve not been very good about updating this, so here&#39;s a little summary of what I&#39;ve been doing since the last time I posted.&lt;/p&gt;
+&lt;p&gt;On &lt;strong&gt;the technical side&lt;/strong&gt;, I&#39;ve written a couple of articles on adjusting linear models to account for what I call &amp;quot;zero-saturation.&amp;quot; This was work we did for a client who had some linear models to estimate count data, which of course can&#39;t be negative. Their assumption was that zero-counts would be rare in all situations. They aren&#39;t. So this work relates to a solution we came up with for them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://win-vector.com/2024/08/16/post-hoc-adjustment-for-zero-thresholded-linear-models/&quot;&gt;Post-hoc Adjustment for Zero-Thresholded Linear Models&lt;/a&gt; -- on the Win-Vector blog.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ninazumel.com/blog/2024-08-20-saturated-models/&quot;&gt;Adjusting Saturated Models&lt;/a&gt; -- a followup article, on the ninazumel.com blog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the &lt;strong&gt;non-technical side&lt;/strong&gt;, I indulged myself in &lt;a href=&quot;https://multoghost.wordpress.com/2024/08/22/playing-what-if-with-star-wars/&quot;&gt;a little game of &amp;quot;What if?&amp;quot; with Star Wars, and how the force works.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also moved my literary sleuthing blog &lt;a href=&quot;https://ninazumel.com/dark_tales_sleuth/&quot;&gt;&lt;em&gt;Dark Tales Sleuth&lt;/em&gt;&lt;/a&gt; away from Wordpress to a static web site (Github Pages). It just made more sense that way. It&#39;s a complete migration, including the comments, so that was nice.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>

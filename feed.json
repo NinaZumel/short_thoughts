@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/",
+			"title": "What I&#39;ve Been Up To",
+			"content_html": "<p>I've not been very good about updating this, so here's a little summary of what I've been doing since the last time I posted.</p>\n<p>On <strong>the technical side</strong>, I've written a couple of articles on adjusting linear models to account for what I call &quot;zero-saturation.&quot; This was work we did for a client who had some linear models to estimate count data, which of course can't be negative. Their assumption was that zero-counts would be rare in all situations. They aren't. So this work relates to a solution we came up with for them.</p>\n<ul>\n<li><a href=\"https://win-vector.com/2024/08/16/post-hoc-adjustment-for-zero-thresholded-linear-models/\">Post-hoc Adjustment for Zero-Thresholded Linear Models</a> -- on the Win-Vector blog.</li>\n<li><a href=\"https://ninazumel.com/blog/2024-08-20-saturated-models/\">Adjusting Saturated Models</a> -- a followup article, on the ninazumel.com blog.</li>\n</ul>\n<p>On the <strong>non-technical side</strong>, I indulged myself in <a href=\"https://multoghost.wordpress.com/2024/08/22/playing-what-if-with-star-wars/\">a little game of &quot;What if?&quot; with Star Wars, and how the force works.</a></p>\n<p>I also moved my literary sleuthing blog <a href=\"https://ninazumel.com/dark_tales_sleuth/\"><em>Dark Tales Sleuth</em></a> away from Wordpress to a static web site (Github Pages). It just made more sense that way. It's a complete migration, including the comments, so that was nice.</p>\n",
+			"date_published": "2024-08-28T16:12:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-08-16-ghosts-of-ucberkeley-eng/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-08-16-ghosts-of-ucberkeley-eng/",
 			"title": "",
