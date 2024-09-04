@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-08-28T16:12:00Z</updated>
+	<updated>2024-09-04T16:38:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-03-sidenotes/"/>
+		<updated>2024-09-04T16:38:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-03-sidenotes/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://ninazumel.com/TwelveMedievalGhostStories/&quot;&gt;I&#39;ve been playing with sidenotes in eleventy&lt;/a&gt;. This javascript-based solution looks great, but I don&#39;t like how brittle its grid structure is. The notes on my blog don&#39;t (usually) tend to be as long and dense as the notes in the medieval ghost story documents, so I think a Tufte-CSS style solution would be better suited.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>What I&#39;ve Been Up To</title>

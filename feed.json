@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-09-03-sidenotes/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-09-03-sidenotes/",
+			"title": "",
+			"content_html": "<p><a href=\"http://ninazumel.com/TwelveMedievalGhostStories/\">I've been playing with sidenotes in eleventy</a>. This javascript-based solution looks great, but I don't like how brittle its grid structure is. The notes on my blog don't (usually) tend to be as long and dense as the notes in the medieval ghost story documents, so I think a Tufte-CSS style solution would be better suited.</p>\n",
+			"date_published": "2024-09-04T16:38:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-08-28-what-ive-been-up-to/",
 			"title": "What I&#39;ve Been Up To",
