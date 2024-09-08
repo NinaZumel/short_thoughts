@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-05T00:13:00Z</updated>
+	<updated>2024-09-08T16:47:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-08-marginnotes-on-my-blog/"/>
+		<updated>2024-09-08T16:47:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-08-marginnotes-on-my-blog/</id>
+		<content type="html">&lt;p&gt;I just added &lt;a href=&quot;https://ninazumel.com/blog/2024-09-07-marginnotes-on-my-blog/&quot;&gt;margin notes to my main blog!&lt;/a&gt; And I tell you how to do it, too.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
