@@ -88,6 +88,16 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	// shortcode for adding margin notes
+	eleventyConfig.addShortcode('marginnote', 
+		(id, content) => 
+			`<label for="${id}" class="margin-toggle">&#8853;</label>
+			<input type="checkbox" id="${id}" class="margin-toggle"/>
+			<span class="marginnote">${content}</span>`
+		
+	);
+	
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
