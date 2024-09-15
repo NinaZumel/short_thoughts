@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-11T17:38:00Z</updated>
+	<updated>2024-09-15T00:02:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-14-haunted-stumps/"/>
+		<updated>2024-09-15T00:02:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-14-haunted-stumps/</id>
+		<content type="html">&lt;p&gt;I got interested in an Ohio folktale about a haunted tree stump, and decided to hunt down other versions. Here&#39;s &lt;a href=&quot;https://multoghost.wordpress.com/2024/09/14/hunting-for-haunted-stumps/&quot;&gt;a post on what I found so far&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
