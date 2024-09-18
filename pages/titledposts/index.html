@@ -41,7 +41,7 @@
 	font-size: 1em;
 	color: #9B9C9D;
 }
-.postlist { counter-reset: start-from 135 }
+.postlist { counter-reset: start-from 136 }
 /* For displaying image and description*/
 
 .author_container {
@@ -179,7 +179,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 50em;
+	max-width: 70em;
 }
 
 /* different horizontal rules  https://www.w3schools.com/howto/howto_css_dividers.asp */
@@ -244,11 +244,19 @@ p {
 	/* font-size: 1.2em; */
 }
 
-P.caption {
+p.caption {
 	text-align: center;
 	font-style: italic;
 	font-size: 0.9em;
 	color: #9B9C9D;
+ }
+
+/* for the credits at the bottom of a page */
+p.credit {
+	max-width: 50em;
+	font-size: 0.9em;
+	margin-left: auto;
+	margin-right: auto;
  }
 
 li {
@@ -358,11 +366,21 @@ header {
 	text-decoration: underline;
 }
 
+/*
+  Custom containters
+*/
+div.message-box {
+	max-width: 50em; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Posts list */
 .postlist {
 	list-style: none;
 	padding: 0;
 	padding-left: 0; /* 1.5rem; */
+	max-width: 50em;
 }
 .postlist-item {
 	display: flex;
@@ -564,6 +582,8 @@ hr {
 
 
 <ol reversed="" class="postlist">
+
+   
 
    
 
@@ -938,8 +958,8 @@ Beware of...</p>
 
 </div>
 
-<p><small>Illustration by Louis Rhead, from <em>A collection of book plate designs</em> (1907). 
-Source: <a href="https://www.oldbookillustrations.com/illustrations/ex-libris-encourage-beautiful/"><em>Old Book Illustrations</em></a></small></p>
+<p class="credit">Illustration by Louis Rhead, from <em>A collection of book plate designs</em> (1907). 
+Source: <a href="https://www.oldbookillustrations.com/illustrations/ex-libris-encourage-beautiful/"><em>Old Book Illustrations</em></a></p>
 
 
 		</main>

@@ -183,6 +183,141 @@ pre[class*="language-diff-"] {
 	text-decoration: none; /* override del, ins, mark defaults */
 	color: inherit; /* override del, ins, mark defaults */
 }
+/* minimal implementation; just plain text in the margin, no blockquotes, code, etc */
+/* only (unnumbered) margin notes, no sidenotes */
+/* stripped down from https://github.com/edwardtufte/tufte-css */
+
+/* need this for correct sidenote numbering; but I'm not using sidenotes */
+/*
+body {
+    counter-reset: sidenote-counter; 
+} 
+*/
+
+/* since I imagine these will change with different templates */
+:root {
+    --content-width: 65%;
+    --image-padding: 5%;
+    --image-max: 60%;  /* total image+padding <= content-width */
+    --notewidth: 30%; 
+    /* content-width + notewidth <  100%. I think you should leave some wiggle room. */
+    --note-right-margin: -45%; 
+    /* if this margin is -(notewidth), the note will start just on the right border of the text */
+    /* so push it a little to the right (more negative) */
+}
+
+article {
+	padding-top: 1rem; 
+}
+
+/* make room for the notes in the article container */
+article > p,
+article > pre,
+article > ul,
+article > ol {
+    width: var(--content-width);
+}
+
+article > hr {
+    max-width: var(--content-width);
+    margin: 0
+}
+
+article > h1, 
+article > h2,
+article > h3,
+article > h4 {
+    max-width: var(--content-width);
+}
+
+
+/* 
+  blockquotes should be a little shorter 
+  This assumes that left indentation is 2em, which is what it looks like.
+  */
+  article > blockquote {
+    width: calc(var(--content-width) - 2em); 
+}
+
+/* keep images/captions in the text column, rather than centered in the article container */
+article > img {
+    margin-left: 0;
+    padding-left: var(--image-padding);
+    max-width: var(--image-max); 
+}
+
+article > p.caption {
+	text-align: left;
+    padding-left: var(--image-padding);
+	font-style: italic;
+	font-size: 0.9em;
+	color: #9B9C9D;
+ }
+
+ /* finally, the margin note */
+.marginnote {    
+    float: right;
+    clear: right;
+    width: var(--notewidth);         
+    margin-right: var(--note-right-margin);
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+}
+
+
+input.margin-toggle {
+    display: none;
+}
+
+
+label.margin-toggle {    
+    display: none;
+
+}
+
+/* The mobile fallback: */
+/* making max-width bigger makes the note fall inline sooner */
+@media (max-width: 768px) {  
+    body {
+        width: 84%;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+
+    hr,
+    article > p,
+    article > blockquote,
+    article > pre {
+        width: 100%;
+    }
+
+    label.margin-toggle {
+        display: inline;
+    }
+       
+    .marginnote {           
+         display: none;        
+        }    
+
+      
+    .margin-toggle:checked + .marginnote {            
+        display: block;            
+        float: left;            
+        left: 1rem;            
+        clear: both;            
+        width: 95%;            
+        margin: 1rem 2.5%;            
+        vertical-align: baseline;            
+        position: relative;        
+    }
+    label {
+        cursor: pointer;
+    }
+}
 * { box-sizing: border-box; }
 /* Defaults */
 :root {
@@ -244,7 +379,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 50em;
+	max-width: 70em;
 }
 
 /* different horizontal rules  https://www.w3schools.com/howto/howto_css_dividers.asp */
@@ -309,11 +444,19 @@ p {
 	/* font-size: 1.2em; */
 }
 
-P.caption {
+p.caption {
 	text-align: center;
 	font-style: italic;
 	font-size: 0.9em;
 	color: #9B9C9D;
+ }
+
+/* for the credits at the bottom of a page */
+p.credit {
+	max-width: 50em;
+	font-size: 0.9em;
+	margin-left: auto;
+	margin-right: auto;
  }
 
 li {
@@ -423,11 +566,21 @@ header {
 	text-decoration: underline;
 }
 
+/*
+  Custom containters
+*/
+div.message-box {
+	max-width: 50em; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Posts list */
 .postlist {
 	list-style: none;
 	padding: 0;
 	padding-left: 0; /* 1.5rem; */
+	max-width: 50em;
 }
 .postlist-item {
 	display: flex;
@@ -611,11 +764,14 @@ hr {
 <ul class="post-metadata">
 </ul>
 
+
+<article>
 <p>Over Christmas break, a researcher for the Internet Speculative Fiction Database <a href="https://darktalessleuth.wordpress.com/2021/06/04/notes-on-the-tigers-cave/comment-page-1/#comment-29">left a comment on a post</a> at my blog <em>Dark Tales Sleuth</em>. This is a blog I put up to support my projects in literary sleuthing: that is, tracking down proper author/translator attributions and provenance of uncredited (or miscredited) stories---a thing you come across a lot if you like to read short fiction from nineteenth century periodicals or anthologies. The amount of copypasta and plagiarism is staggering. Even the <em>New York Times</em> wasn't above it.</p>
 <p>The story in question was one I'd identified as probably being an English translation of a story from a Danish literary journal, that was possibly itself a translation from another language. Maybe even English? That would be funny. Thanks to leads my commenter gave me, I did find a German version of the story that may be the original. Maybe. And <a href="https://darktalessleuth.wordpress.com/2024/01/01/revisiting-the-tigers-cave/">I wrote about it here</a>.</p>
 <p>Not that I expect anyone to be interested in the story itself -- to be honest, even I don't like it. But literary sleuthing is a fun form of internet research and puzzle solving: running down virtual rabbit holes, figuring out exactly what query---and on which search engine---will get what you want, finding all kinds of cool archives you didn't know about before.... It's some of the same impulse, perhaps, that motivates people who like dig into true crime, or into internet drama: can I find something no one else has? Can I see or think of what no one else has seen or thought of?</p>
 <p>Literary sleuthing is less salacious, but also more benign: after all, everyone involved is long gone, and no living person's reputation can be harmed. It's just a harmless intellectual pasttime. At any rate, I like doing it, and I like reading about other people doing it, and maybe you will, too.</p>
 
+</article>
 <ul class="links-nextprev"><li><a href="/short_thoughts/blog/2023-12-31-misers-ghost/">&#8592;</a> <span style="color: #9B9C9D">Previous</span></li><li><span style="color: #9B9C9D">Next</span> <a href="/short_thoughts/blog/2024-01-09-darna-the-aftermath/">&#8594</a></li>
 </ul>
 

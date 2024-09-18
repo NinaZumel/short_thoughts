@@ -183,6 +183,141 @@ pre[class*="language-diff-"] {
 	text-decoration: none; /* override del, ins, mark defaults */
 	color: inherit; /* override del, ins, mark defaults */
 }
+/* minimal implementation; just plain text in the margin, no blockquotes, code, etc */
+/* only (unnumbered) margin notes, no sidenotes */
+/* stripped down from https://github.com/edwardtufte/tufte-css */
+
+/* need this for correct sidenote numbering; but I'm not using sidenotes */
+/*
+body {
+    counter-reset: sidenote-counter; 
+} 
+*/
+
+/* since I imagine these will change with different templates */
+:root {
+    --content-width: 65%;
+    --image-padding: 5%;
+    --image-max: 60%;  /* total image+padding <= content-width */
+    --notewidth: 30%; 
+    /* content-width + notewidth <  100%. I think you should leave some wiggle room. */
+    --note-right-margin: -45%; 
+    /* if this margin is -(notewidth), the note will start just on the right border of the text */
+    /* so push it a little to the right (more negative) */
+}
+
+article {
+	padding-top: 1rem; 
+}
+
+/* make room for the notes in the article container */
+article > p,
+article > pre,
+article > ul,
+article > ol {
+    width: var(--content-width);
+}
+
+article > hr {
+    max-width: var(--content-width);
+    margin: 0
+}
+
+article > h1, 
+article > h2,
+article > h3,
+article > h4 {
+    max-width: var(--content-width);
+}
+
+
+/* 
+  blockquotes should be a little shorter 
+  This assumes that left indentation is 2em, which is what it looks like.
+  */
+  article > blockquote {
+    width: calc(var(--content-width) - 2em); 
+}
+
+/* keep images/captions in the text column, rather than centered in the article container */
+article > img {
+    margin-left: 0;
+    padding-left: var(--image-padding);
+    max-width: var(--image-max); 
+}
+
+article > p.caption {
+	text-align: left;
+    padding-left: var(--image-padding);
+	font-style: italic;
+	font-size: 0.9em;
+	color: #9B9C9D;
+ }
+
+ /* finally, the margin note */
+.marginnote {    
+    float: right;
+    clear: right;
+    width: var(--notewidth);         
+    margin-right: var(--note-right-margin);
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+}
+
+
+input.margin-toggle {
+    display: none;
+}
+
+
+label.margin-toggle {    
+    display: none;
+
+}
+
+/* The mobile fallback: */
+/* making max-width bigger makes the note fall inline sooner */
+@media (max-width: 768px) {  
+    body {
+        width: 84%;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+
+    hr,
+    article > p,
+    article > blockquote,
+    article > pre {
+        width: 100%;
+    }
+
+    label.margin-toggle {
+        display: inline;
+    }
+       
+    .marginnote {           
+         display: none;        
+        }    
+
+      
+    .margin-toggle:checked + .marginnote {            
+        display: block;            
+        float: left;            
+        left: 1rem;            
+        clear: both;            
+        width: 95%;            
+        margin: 1rem 2.5%;            
+        vertical-align: baseline;            
+        position: relative;        
+    }
+    label {
+        cursor: pointer;
+    }
+}
 * { box-sizing: border-box; }
 /* Defaults */
 :root {
@@ -244,7 +379,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 50em;
+	max-width: 70em;
 }
 
 /* different horizontal rules  https://www.w3schools.com/howto/howto_css_dividers.asp */
@@ -309,11 +444,19 @@ p {
 	/* font-size: 1.2em; */
 }
 
-P.caption {
+p.caption {
 	text-align: center;
 	font-style: italic;
 	font-size: 0.9em;
 	color: #9B9C9D;
+ }
+
+/* for the credits at the bottom of a page */
+p.credit {
+	max-width: 50em;
+	font-size: 0.9em;
+	margin-left: auto;
+	margin-right: auto;
  }
 
 li {
@@ -423,11 +566,21 @@ header {
 	text-decoration: underline;
 }
 
+/*
+  Custom containters
+*/
+div.message-box {
+	max-width: 50em; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Posts list */
 .postlist {
 	list-style: none;
 	padding: 0;
 	padding-left: 0; /* 1.5rem; */
+	max-width: 50em;
 }
 .postlist-item {
 	display: flex;
@@ -611,6 +764,8 @@ hr {
 <ul class="post-metadata">
 </ul>
 
+
+<article>
 <p>Last night, I invented a new dish, a fusion of Mexican <em>arroz amarillo</em> and South Asian <em>kichidi</em> that I dubbed “Mexican Kichidi.” It was delicious, and while cooking it I had excited plans to photograph my culinary creation and post my new brainchild. But when the cooking was over and the time came, I decided: <em>screw it, I’d rather just sit and eat this</em>. Who cares, after all, except my husband and me, and maybe the people I might make this for in the future? And they can find out about it then.</p>
 <p>The above has always been my feeling about social media (and microblogging). <em>Why would anybody care?</em> I never saw the point of Twitter, for instance, unless one had a blog, or some other fount of creation (I won’t call it “content”), and one wanted to share their new creations with interested people in the world. Or even share other people’s interesting creations. And the kind of more personal stuff people often share on Facebook and equivalents (pictures of food, pictures of kids or pets…) — I do that too, but with my real-life, in-person friends: people who might actually care, because they know me. They know my context.</p>
 <p>Pundits sometimes deride social media as “performative,” but that’s not my issue. I have no problem “performing”— the reason I have so many blogs is to separate the various aspects of myself that I want to “perform” in public. My issue, I realized, is that social media is to a large degree <em>small talk</em>. And I hate small talk. I’ve never been good at it, I have trouble initiating it. I’ve gotten better at following through, but my gawd, it’s <em>work</em>.</p>
@@ -618,6 +773,7 @@ hr {
 <p>But I really just want to find someone (a few someones) to <em>converse</em> with. Someone whose context I click with, or who clicks with my context. Hopefully both. And the few of us can stand in a corner and nerd out on the things we’re nerdy about to our heart’s content. Things our real-llfe friends may not find as interesting as we do (that’s why I came to this shindig in the first place, after all). We can share our long-form, short-form, medium-form posts with each other, knowing that those we share with may actually click, may actually <em>read</em>. And sometimes, at least, respond. Other people at the party will wander over, maybe join in the conversation for a bit until they’re bored, then wander off again. It’s fine.</p>
 <p>Will I find my peeps at this party? Or will I just stand alone by the hors d'oeuvre table, munching on the mini-samosas, talking to myself? Dunno. I guess I’ll find out.</p>
 
+</article>
 <ul class="links-nextprev"><li><a href="/short_thoughts/blog/2022-11-21-dorian-gray/">&#8592;</a> <span style="color: #9B9C9D">Previous</span></li><li><span style="color: #9B9C9D">Next</span> <a href="/short_thoughts/blog/2022-11-28-back-to-the-dilemna-verse/">&#8594</a></li>
 </ul>
 

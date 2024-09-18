@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-09-18-strangers/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-09-18-strangers/",
+			"title": "",
+			"content_html": "<p>📚 Just finished reading <em>Strangers</em> by Taichi Yamada. It's a lovely, thoughtful ghost story with a twist.  <a href=\"https://multoghost.wordpress.com/2024/09/17/reading-strangers/\">Review here.</a></p>\n",
+			"date_published": "2024-09-18T17:46:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-09-14-haunted-stumps/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-09-14-haunted-stumps/",
 			"title": "",
@@ -758,7 +766,7 @@
 			"id": "https://ninazumel.com/short_thoughts/blog/2023-02-08-websites/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2023-02-08-websites/",
 			"title": "",
-			"content_html": "<p>For the last several months, I’ve had this weird urge to build websites. I don’t know why; I’m crap at it — the only way I can do it is to fork other peoples’ repos and painstakingly tweak them to what I want. And I can’t stand up my own server or even connect my jekyll sites to micropub to save my life.</p>\n<p>But hey, it’s a creative urge, I guess I’ll go with it. A new bookshelf project possibly in the works. Maybe you’ll see it soon, if I haven’t just jinxed it with this post.</p>\n",
+			"content_html": "<p>For the last several months, I’ve had this weird urge to build websites.<label for=\"test\" class=\"margin-toggle\">⊕</label>\n<input type=\"checkbox\" id=\"test\" class=\"margin-toggle\">\n<span class=\"marginnote\">It's September 2024, and I just added marginnotes to this blog. Using this ancient post to see what it looks like. Answer: looks good on the page, not great on the archive page. I'll probably reserve it for titled posts.</span> I don’t know why; I’m crap at it — the only way I can do it is to fork other peoples’ repos and painstakingly tweak them to what I want. And I can’t stand up my own server or even connect my jekyll sites to micropub to save my life.</p>\n<p>But hey, it’s a creative urge, I guess I’ll go with it. A new bookshelf project possibly in the works. Maybe you’ll see it soon, if I haven’t just jinxed it with this post.</p>\n",
 			"date_published": "2023-02-08T21:48:00Z"
 		}
 		,
