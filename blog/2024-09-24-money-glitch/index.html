@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Short Thoughts</title>
+		<title>The ur-money glitch fraud</title>
 		<meta name="description" content="Nina Zumel&#39;s Microblog">
 		<link rel="alternate" href="/short_thoughts/feed/feed.xml" type="application/atom+xml" title="Short Thoughts">
 		<link rel="alternate" href="/short_thoughts/feed/feed.json" type="application/json" title="Short Thoughts">
@@ -15,82 +15,308 @@
 		<link href="https://github.com/ninazumel" rel="me">
 		<script src="https://kit.fontawesome.com/9bbe6f85f9.js" crossorigin="anonymous"></script>
 		
-		<style>.postlist { counter-reset: start-from 140 }
-/* For displaying image and description*/
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
 
-.author_container {
-	text-align: center;
-	vertical-align: middle;
-}
-
-.author_container img {
-	  max-width: 175px;
-	  border-radius: 50%;
-	  display: block;
-	  margin-left: auto;
-	  margin-right: auto;
-}
-
-.author_description {
-	margin-left: auto;
-    margin-right: auto;
-	line-height: 1;
-
-}
-
-.author_description p {
-	font-style: italic;
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+/* minimal implementation; just plain text in the margin, no blockquotes, code, etc */
+/* only (unnumbered) margin notes, no sidenotes */
+/* stripped down from https://github.com/edwardtufte/tufte-css */
+
+/* need this for correct sidenote numbering; but I'm not using sidenotes */
+/*
+body {
+    counter-reset: sidenote-counter; 
+} 
+*/
+
+/* since I imagine these will change with different templates */
+:root {
+    --content-width: 65%;
+    --image-padding: 5%;
+    --image-max: 60%;  /* total image+padding <= content-width */
+    --notewidth: 30%; 
+    /* content-width + notewidth <  100%. I think you should leave some wiggle room. */
+    --note-right-margin: -45%; 
+    /* if this margin is -(notewidth), the note will start just on the right border of the text */
+    /* so push it a little to the right (more negative) */
+}
+
+article {
+	padding-top: 1rem; 
+}
+
+/* make room for the notes in the article container */
+article > p,
+article > pre,
+article > ul,
+article > ol {
+    width: var(--content-width);
+}
+
+article > hr {
+    max-width: var(--content-width);
+    margin: 0
+}
+
+article > h1, 
+article > h2,
+article > h3,
+article > h4 {
+    max-width: var(--content-width);
+}
+
+
+/* 
+  blockquotes should be a little shorter 
+  This assumes that left indentation is 2em, which is what it looks like.
+  */
+  article > blockquote {
+    width: calc(var(--content-width) - 2em); 
+}
+
+/* keep images/captions in the text column, rather than centered in the article container */
+article > img {
+    margin-left: 0;
+    padding-left: var(--image-padding);
+    max-width: var(--image-max); 
+}
+
+article > p.caption {
+	text-align: left;
+    padding-left: var(--image-padding);
+	font-style: italic;
+	font-size: 0.9em;
 	color: #9B9C9D;
-}
+ }
 
-.padded_author_container {
-	text-align: center;
-	padding-top: 50px;
-}
-
-.padded_author_container img {
-	max-width: 250px;
-	border-radius: 50%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-/* Message Box */
-.message-box {
-	--color-message-box:  var(--background-color); 
-    --border-color:  #f5f5dc; /*; beige, according to my R color chart */
-
-	display: block;
-	background-color: var(--color-message-box);
-	color: var(--color-gray-90);
-	padding: 1em 0.625em;  /* 16px 10px /16 */
-	padding-left: 2em;  /* bit more on the left */
-	padding-right: 2em;  /* to balance it */
-	border: 2px solid var(--border-color);
-}
-.message-box ol {
-	margin-top: 0;
-}
-
-.message-box h1 {
-	text-align: center;
-}
-
-.message-box h2 {
-	text-align: center;
-}
-
-.message-box h3 {
-	text-align: center;
+ /* finally, the margin note */
+.marginnote {    
+    float: right;
+    clear: right;
+    width: var(--notewidth);         
+    margin-right: var(--note-right-margin);
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
 }
 
 
+input.margin-toggle {
+    display: none;
+}
 
-@media (prefers-color-scheme: dark) {
-	.message-box {
-		--color-message-box: var(--background-color);
-	}
+
+label.margin-toggle {    
+    display: none;
+
+}
+
+/* The mobile fallback: */
+/* making max-width bigger makes the note fall inline sooner */
+@media (max-width: 768px) {  
+    body {
+        width: 84%;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+
+    hr,
+    article > p,
+    article > blockquote,
+    article > pre {
+        width: 100%;
+    }
+
+    label.margin-toggle {
+        display: inline;
+    }
+       
+    .marginnote {           
+         display: none;        
+        }    
+
+      
+    .margin-toggle:checked + .marginnote {            
+        display: block;            
+        float: left;            
+        left: 1rem;            
+        clear: both;            
+        width: 95%;            
+        margin: 1rem 2.5%;            
+        vertical-align: baseline;            
+        position: relative;        
+    }
+    label {
+        cursor: pointer;
+    }
 }
 * { box-sizing: border-box; }
 /* Defaults */
@@ -530,75 +756,25 @@ hr {
 
 		<main id="skip">
 			
+<h1>The ur-money glitch fraud</h1>
 
-
-
-<div class="author_container">
-    <img src="/short_thoughts/img/pen-hero.jpg" alt="Fountain pen">
-    <br>
-    <div class="author_description">
-        <p>Nina Zumel&#39;s Microblog</p>
-    </div>
+<div class="posttalk-metadata">
+  <time datetime="2024-09-24 4:21 PM">24 September 2024 4:21 PM</time>
 </div>
-
-<br>
-<br>
-
+<ul class="post-metadata">
+</ul>
 
 
+<article>
+<p>While reading a <a href="https://archive.org/details/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1907bVol.XxxivJul-dec/page/n418/mode/1up?view=theater"><em>Strand</em> article from 1907</a> by Austin Philips, a writer who had worked as an investigator for the British Post Office, I came across this passage, about fraud in Britain's Postal Savings system.</p>
+<blockquote>
+<p>The introduction of the system of &quot;withdrawal on demand&quot; was responsible for an avalanche of frauds, though they were necessarily limited in result, since, by the regulations, not more than a pound can be withdrawn at any one time. One ingenious gentleman opened a number of accounts by depositing a shilling at various offices in different names.  Having thus obtained a number of deposit books, he set about altering the entries to larger amounts, and then proceeded to withdraw a pound where he had deposited a shilling. His career was not, however, a lengthy one.</p>
+</blockquote>
+<p>So basically, the &quot;Chase Money Glitch&quot; shenanigans, over a century earlier.</p>
 
-
-<div class="message-box">
-<h2>Latest Posts</h2>
-
-
-
-
-<ol reversed="" class="postlist">
-
-	<li class="postlist-item">
-		<a href="/short_thoughts/blog/2024-09-24-money-glitch/" class="postlist-link">The ur-money glitch fraud</a>
-		
-		   <time class="postlist-date" datetime="2024-09-24 4:21 PM">24 September 2024 4:21 PM</time>
-		   <p>While reading a Strand article from 1907 by Austin Philips, a writer who had worked as an investigator for the British Post Office, I came across this passage, about fraud in Britain&#39;s Postal Savings system.
-
-The introduction of the system of...</p>
-        
-	</li>
-
-	<li class="postlist-item">
-		<a href="/short_thoughts/blog/2024-09-21-umunhum-2/" class="postlist-link">21 September 2024 3:43 PM</a>
-		
-		   
-		    <p>Fog rolling over the Santa Cruz mountains, seen from Mt. Umunhum.</p>
-<img alt="Fog rolling over the Santa Cruz Mountains" loading="lazy" decoding="async" src="/short_thoughts/img/fog_bw-omnXycQ23k-400.png" width="4049" height="2892" srcset="/short_thoughts/img/fog_bw-omnXycQ23k-400.png 400w, /short_thoughts/img/fog_bw-omnXycQ23k-800.png 800w, /short_thoughts/img/fog_bw-omnXycQ23k-1200.png 1200w, /short_thoughts/img/fog_bw-omnXycQ23k-4049.png 4049w" sizes="100vw">
-<p><a href="https://flic.kr/s/aHBqjBJsUZ">More photos here.</a></p>
- 
-		
-	</li>
-
-	<li class="postlist-item">
-		<a href="/short_thoughts/blog/2024-09-21-umunhum-1/" class="postlist-link">21 September 2024 3:43 PM</a>
-		
-		   
-		    <p>We visited <a href="https://flic.kr/s/aHBqjBJsUZ">Mount Umunhum</a> today.</p>
-<img alt="The Cube, former radar tower atop Mt. Umunhum" loading="lazy" decoding="async" src="/short_thoughts/img/cube-KUEcIZMF7V-400.png" width="4284" height="5712" srcset="/short_thoughts/img/cube-KUEcIZMF7V-400.png 400w, /short_thoughts/img/cube-KUEcIZMF7V-800.png 800w, /short_thoughts/img/cube-KUEcIZMF7V-1200.png 1200w, /short_thoughts/img/cube-KUEcIZMF7V-4284.png 4284w" sizes="100vw">
-<p>&quot;The Cube,&quot; a 5-story former radar tower, decommissioned in 1980.</p>
- 
-		
-	</li>
-
-</ol>
-
-
-
-
-
-
-<p>More posts in <a href="/short_thoughts/blog/">the archive</a>.</p>
-
-</div>
-
+</article>
+<ul class="links-nextprev"><li><a href="/short_thoughts/blog/2024-09-21-umunhum-2/">&#8592;</a> <span style="color: #9B9C9D">Previous</span></li>
+</ul>
 
 		</main>
 
@@ -625,6 +801,6 @@ The introduction of the system of...</p>
 </div>
 		<!-- /footer-- >
 
-		<!-- Current page: /short_thoughts/ -->
+		<!-- Current page: /short_thoughts/blog/2024-09-24-money-glitch/ -->
 	</body>
 </html>

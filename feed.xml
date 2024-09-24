@@ -4,12 +4,25 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-21T22:43:00Z</updated>
+	<updated>2024-09-24T23:21:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title>The ur-money glitch fraud</title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-24-money-glitch/"/>
+		<updated>2024-09-24T23:21:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-24-money-glitch/</id>
+		<content type="html">&lt;p&gt;While reading a &lt;a href=&quot;https://archive.org/details/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1907bVol.XxxivJul-dec/page/n418/mode/1up?view=theater&quot;&gt;&lt;em&gt;Strand&lt;/em&gt; article from 1907&lt;/a&gt; by Austin Philips, a writer who had worked as an investigator for the British Post Office, I came across this passage, about fraud in Britain&#39;s Postal Savings system.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The introduction of the system of &amp;quot;withdrawal on demand&amp;quot; was responsible for an avalanche of frauds, though they were necessarily limited in result, since, by the regulations, not more than a pound can be withdrawn at any one time. One ingenious gentleman opened a number of accounts by depositing a shilling at various offices in different names.  Having thus obtained a number of deposit books, he set about altering the entries to larger amounts, and then proceeded to withdraw a pound where he had deposited a shilling. His career was not, however, a lengthy one.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So basically, the &amp;quot;Chase Money Glitch&amp;quot; shenanigans, over a century earlier.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
