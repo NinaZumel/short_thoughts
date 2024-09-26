@@ -4,12 +4,21 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-24T23:21:00Z</updated>
+	<updated>2024-09-26T21:16:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-26-crime-in-post-office/"/>
+		<updated>2024-09-26T21:16:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-26-crime-in-post-office/</id>
+		<content type="html">&lt;p&gt;Wire fraud, banking fraud, even murder: read about &lt;a href=&quot;https://ninazumel.com/dark_tales_sleuth/austin-philips/crime-in-the-post-office/&quot;&gt;Crime in the Post Office&lt;/a&gt; in the late 19th-early 20th century. (This is the &lt;em&gt;Strand&lt;/em&gt; article I alluded to earlier).&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>The ur-money glitch fraud</title>
