@@ -4,12 +4,26 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-26T21:16:00Z</updated>
+	<updated>2024-09-27T01:48:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-26-100bushels/"/>
+		<updated>2024-09-27T01:48:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-26-100bushels/</id>
+		<content type="html">&lt;p&gt;Do you like math puzzles? Here&#39;s a cool one that dates back at least to the 8th century:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;100 bushels of corn are distributed to 100 people such that every man receives 3 bushels, every woman 2 bushels, and every child 1/2 a bushel. How many men, women, and children are there?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are seven solutions, one of which is 20 men, 0 women, 80 children. Can you find the other six?&lt;/p&gt;
+&lt;p&gt;If you give up, there&#39;s a solution here: &lt;a href=&quot;https://ninazumel.com/blog/2024-09-26-100bushels/&quot;&gt;100 Bushels of Corn&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>

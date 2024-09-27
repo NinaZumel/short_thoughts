@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://ninazumel.com/short_thoughts/blog/2024-09-26-100bushels/",
+			"url": "https://ninazumel.com/short_thoughts/blog/2024-09-26-100bushels/",
+			"title": "",
+			"content_html": "<p>Do you like math puzzles? Here's a cool one that dates back at least to the 8th century:</p>\n<blockquote>\n<p>100 bushels of corn are distributed to 100 people such that every man receives 3 bushels, every woman 2 bushels, and every child 1/2 a bushel. How many men, women, and children are there?</p>\n</blockquote>\n<p>There are seven solutions, one of which is 20 men, 0 women, 80 children. Can you find the other six?</p>\n<p>If you give up, there's a solution here: <a href=\"https://ninazumel.com/blog/2024-09-26-100bushels/\">100 Bushels of Corn</a>.</p>\n",
+			"date_published": "2024-09-27T01:48:00Z"
+		}
+		,
+		{
 			"id": "https://ninazumel.com/short_thoughts/blog/2024-09-26-crime-in-post-office/",
 			"url": "https://ninazumel.com/short_thoughts/blog/2024-09-26-crime-in-post-office/",
 			"title": "",
