@@ -4,12 +4,25 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-29T23:12:00Z</updated>
+	<updated>2024-09-30T17:08:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-09-30-weights-problem/"/>
+		<updated>2024-09-30T17:08:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-09-30-weights-problem/</id>
+		<content type="html">&lt;p&gt;Here&#39;s another math puzzle for you, this one from the 16th or 17th century:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have four (integral) weights (&lt;code&gt;w_1, w_2, w_3, w_4&lt;/code&gt;)  and a balance scale such that you can weigh any object weighing from 1 lb to 40 lbs (no fractions). The weights may go on either side of the scale (eg, with the object, or in the opposite pan). What are the &lt;code&gt;w_i&lt;/code&gt; ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Some background and the solution here: &lt;a href=&quot;https://ninazumel.com/blog/2024-09-29-four-weights/&quot;&gt;&lt;strong&gt;Bachet&#39;s Four Weights Problem&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
