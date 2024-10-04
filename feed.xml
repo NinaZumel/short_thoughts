@@ -4,12 +4,25 @@
 	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/short_thoughts/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/short_thoughts/short_thoughts/"/>
-	<updated>2024-09-30T17:08:00Z</updated>
+	<updated>2024-10-04T18:18:00Z</updated>
 	<id>https://ninazumel.com/short_thoughts/</id>
 	<author>
 		<name>Nina B. Zumel</name>
 		<email>nzumel@mzlabs.com.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/short_thoughts/blog/2024-10-04-perplexed-banker/"/>
+		<updated>2024-10-04T18:18:00Z</updated>
+		<id>https://ninazumel.com/short_thoughts/blog/2024-10-04-perplexed-banker/</id>
+		<content type="html">&lt;p&gt;Here&#39;s yet another math puzzle; this one&#39;s fairly easy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A man went into a bank with 1,000 silver dollars and 10 bags. He said, “Place this money, please, in the bags in such a way that if I call and ask for a certain number of dollars you can hand me over one or more bags, giving me the exact amount called for without opening any of the bags.” How was it to be done? We are, of course, only concerned with a single application, but he may ask for any exact number of dollars from 1 to 1000.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Background and solution here: &lt;a href=&quot;https://ninazumel.com/blog/2024-10-03-perplexed-banker/&quot;&gt;&lt;strong&gt;The Perplexed Banker&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
